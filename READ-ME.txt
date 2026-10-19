@@ -1,0 +1,10 @@
+
+2. 將下列檔案最後的 .txt 移除（不要修改內容）：
+app.js.txt → app.js
+data.js.txt → data.js
+i18n.js.txt → i18n.js
+locales/en.json.txt → locales/en.json
+locales/zh-TW.json.txt → locales/zh-TW.json
+site.js.txt → site.js
+3. 刪除此 READ-ME.txt，即為可部署的完整網站。
+請透過靜態網站伺服器或 GitHub Pages 開啟，勿直接以 file:// 開啟。

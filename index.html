@@ -1,0 +1,1423 @@
+<!doctype html>
+
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width,initial-scale=1" name="viewport" />
+    <title data-i18n="text.001">王冠群島｜Nick 的卡牌遊戲</title>
+    <meta content="website" property="og:type" />
+    <meta content="王冠群島｜Nick 的卡牌遊戲" property="og:title" />
+    <meta
+      content="命火未熄，戰局未定。在王冠群島集結幻獸、調度指揮點，用 60 張牌寫下你的戰術。群島之上，沒有唯一的勝利之道。"
+      property="og:description"
+    />
+    <meta content="branding/shareimg.jpg" property="og:image" />
+    <meta content="image/jpeg" property="og:image:type" />
+    <meta content="1200" property="og:image:width" />
+    <meta content="630" property="og:image:height" />
+    <meta content="Crown Islands" property="og:image:alt" />
+    <meta content="summary_large_image" name="twitter:card" />
+    <meta content="王冠群島｜Nick 的卡牌遊戲" name="twitter:title" />
+    <meta
+      content="命火未熄，戰局未定。在王冠群島集結幻獸、調度指揮點，用 60 張牌寫下你的戰術。群島之上，沒有唯一的勝利之道。"
+      name="twitter:description"
+    />
+    <meta content="branding/shareimg.jpg" name="twitter:image" />
+    <link href="style.css" rel="stylesheet" />
+  </head>
+  <body>
+    <header>
+      <a class="brand" href="#home"
+        ><img
+          alt="王冠群島"
+          class="site-logo"
+          data-logo=""
+          src="branding/crown-islands-zh-TW.webp"
+      /></a>
+      <nav aria-label="主要導覽" data-i18n-aria-label="text.219">
+        <a href="#about"><i18n-text data-i18n="text.002">遊戲</i18n-text></a
+        ><a href="#cards"><i18n-text data-i18n="text.003">卡牌圖鑑</i18n-text></a
+        ><a href="#rules"
+          ><i18n-text data-i18n="text.004">規則</i18n-text></a
+        ><a href="#music"><i18n-text data-i18n="text.005">音樂</i18n-text></a
+        ><a href="#films"><i18n-text data-i18n="text.006">影片</i18n-text></a
+        ><a href="#creator"
+          ><i18n-text data-i18n="text.007">關於我</i18n-text></a
+        >
+      </nav>
+      <select aria-label="語言" id="language">
+        <option selected value="zh-TW">繁體中文</option>
+        <option value="en">English</option>
+      </select>
+    </header>
+    <main>
+      <section class="hero" id="home">
+        <div class="hero-art"></div>
+        <div class="hero-content">
+          <p class="eyebrow">
+            <i18n-text data-i18n="text.008"
+              >幻獸戰域 · STRATEGY CARD GAME</i18n-text
+            >
+          </p>
+          <div class="ornament">✦ ───────── ✦</div>
+          <h1>
+            <img
+              alt="王冠群島"
+              class="site-logo"
+              data-logo=""
+              src="branding/crown-islands-zh-TW.webp"
+            />
+          </h1>
+          <h2>
+            <i18n-text data-i18n="text.009"
+              >命火未熄，戰局未定。</i18n-text
+            >
+          </h2>
+          <p class="intro">
+            <i18n-text data-i18n="text.010"
+              >在王國的邊界，寫下你的戰術。</i18n-text
+            ><br /><i18n-text data-i18n="text.011"
+              >集結幻獸、調度指揮點，讓每一張牌成為逆轉的伏筆。</i18n-text
+            >
+          </p>
+          <div class="actions">
+            <a class="button gold" href="#download"
+              ><i18n-text data-i18n="download.primary"
+                >下載遊戲</i18n-text
+              ><span>↗</span></a
+            ><a class="button" href="#films"
+              ><i18n-text data-i18n="text.013"
+                >▷ 觀看主題曲影片</i18n-text
+              ></a
+            >
+          </div>
+          <p class="subtle">
+            <i18n-text data-i18n="text.014"
+              >開發中作品 / 美術、音樂與玩法一覽</i18n-text
+            >
+          </p>
+        </div>
+        <div class="hero-caption">
+          <i18n-text data-i18n="text.015">THE KINGDOM AWAITS</i18n-text
+          ><br /><span
+            ><i18n-text data-i18n="text.016"
+              >一場遠征，始於你的選擇。</i18n-text
+            ></span
+          >
+        </div>
+        <a class="scroll" href="#about"
+          ><i18n-text data-i18n="text.017">SCROLL TO EXPLORE ↓</i18n-text></a
+        >
+      </section>
+      <section
+        aria-labelledby="download-heading"
+        class="section download-section"
+        id="download"
+      >
+        <div>
+          <p class="eyebrow">
+            <i18n-text data-i18n="download.eyebrow"
+              >下一場冒險</i18n-text
+            >
+          </p>
+          <h2 id="download-heading">
+            <i18n-text data-i18n="download.title">下載王冠群島</i18n-text>
+          </h2>
+          <p>
+            <i18n-text data-i18n="download.message"
+              >上架中，請期待。</i18n-text
+            >
+          </p>
+        </div>
+        <div class="platforms">
+          <button
+            aria-controls="release-notice"
+            aria-haspopup="dialog"
+            class="platform-button ios"
+            data-platform="iOS"
+            type="button"
+          >
+            <span class="platform-logo"
+              ><img alt="" src="platforms/ios.webp" /></span
+            ><span class="platform-name">iOS</span
+            ><span class="platform-status"
+              ><i18n-text data-i18n="download.short"
+                >敬請期待</i18n-text
+              ></span
+            ></button
+          ><button
+            aria-controls="release-notice"
+            aria-haspopup="dialog"
+            class="platform-button android"
+            data-platform="Android™"
+            type="button"
+          >
+            <span class="platform-logo"
+              ><img alt="" src="platforms/android.svg" /></span
+            ><span class="platform-name">Android™</span
+            ><span class="platform-status"
+              ><i18n-text data-i18n="download.short"
+                >敬請期待</i18n-text
+              ></span
+            ></button
+          ><button
+            aria-controls="release-notice"
+            aria-haspopup="dialog"
+            class="platform-button steam"
+            data-platform="Steam"
+            type="button"
+          >
+            <span class="platform-logo"
+              ><img alt="" src="platforms/steam.svg" /></span
+            ><span class="platform-name">Steam</span
+            ><span class="platform-status"
+              ><i18n-text data-i18n="download.short"
+                >敬請期待</i18n-text
+              ></span
+            >
+          </button>
+        </div>
+      </section>
+      <section class="section about" id="about">
+        <div class="about-art">
+          <img
+            alt="王冠古龍卡牌美術"
+            data-i18n-alt="text.220"
+            loading="lazy"
+            src="art/100.webp"
+          /><span
+            ><i18n-text data-i18n="text.018"
+              >THE WORLD OF CROWN ISLANDS</i18n-text
+            ></span
+          >
+        </div>
+        <div>
+          <p class="eyebrow">
+            <i18n-text data-i18n="text.019">01 / 關於遊戲</i18n-text>
+          </p>
+          <h2>
+            <i18n-text data-i18n="text.020">群島之上，</i18n-text
+            ><br /><i18n-text data-i18n="text.021"
+              >沒有唯一的勝利之道。</i18n-text
+            >
+          </h2>
+          <p>
+            <i18n-text data-i18n="text.022"
+              >從王城軍備到林野猛攻，從海空突襲到遺跡守望，選擇你的戰術，組建屬於自己的 60 張牌組。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.023"
+              >你可以投入資源發動攻勢，也可以保留指揮點，在對手的回合以反制扭轉局面。每一次部署，都在為下一步留下可能。</i18n-text
+            >
+          </p>
+          <div class="facts">
+            <div>
+              <b>60</b
+              ><span
+                ><i18n-text data-i18n="text.024"
+                  >張牌，構築你的戰術</i18n-text
+                ></span
+              >
+            </div>
+            <div>
+              <b>4</b
+              ><span
+                ><i18n-text data-i18n="text.025"
+                  >個單位席位，寸土必爭</i18n-text
+                ></span
+              >
+            </div>
+            <div>
+              <b>∞</b
+              ><span
+                ><i18n-text data-i18n="text.026"
+                  >值得探索的出牌選擇</i18n-text
+                ></span
+              >
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="section" id="cards">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">
+              <i18n-text data-i18n="text.027">02 / 卡牌圖鑑</i18n-text>
+            </p>
+            <h2>
+              <i18n-text data-i18n="text.028"
+                >小小一張牌，藏著整個世界。</i18n-text
+              >
+            </h2>
+          </div>
+          <p>
+            <i18n-text data-i18n="text.029"
+              >點選卡牌，閱讀效果與網頁版美術。</i18n-text
+            >
+          </p>
+        </div>
+        <div class="filters">
+          <div class="tabs">
+            <button class="active" data-type="">
+              <i18n-text data-i18n="text.030">全部</i18n-text></button
+            ><button data-type="monster">
+              <i18n-text data-i18n="text.031">單位</i18n-text></button
+            ><button data-type="spell">
+              <i18n-text data-i18n="text.032">法術</i18n-text></button
+            ><button data-type="equipment">
+              <i18n-text data-i18n="text.033">裝備</i18n-text></button
+            ><button data-type="trap">
+              <i18n-text data-i18n="text.034">陷阱</i18n-text></button
+            ><button data-type="counter">
+              <i18n-text data-i18n="text.035">反制</i18n-text></button
+            ><button data-type="terrain">
+              <i18n-text data-i18n="text.036">地形</i18n-text>
+            </button>
+          </div>
+          <input
+            aria-label="搜尋卡名或效果"
+            data-i18n-aria-label="text.222"
+            data-i18n-placeholder="text.221"
+            id="search"
+            placeholder="搜尋卡名或效果…"
+            type="search"
+          />
+        </div>
+        <p class="subtle" id="count"></p>
+        <div id="card-grid"></div>
+        <div class="center">
+          <button class="button" id="more">
+            <i18n-text data-i18n="text.037">探索更多卡牌 ↓</i18n-text>
+          </button>
+        </div>
+      </section>
+      <section class="rules section" id="rules">
+        <p class="eyebrow">
+          <i18n-text data-i18n="text.038">03 / 如何遊玩</i18n-text>
+        </p>
+        <h2>
+          <i18n-text data-i18n="text.039"
+            >把握每一步，直到最後的命火。</i18n-text
+          >
+        </h2>
+        <div class="steps">
+          <article>
+            <i>01</i>
+            <h3><i18n-text data-i18n="text.040">組建牌組</i18n-text></h3>
+            <p>
+              <i18n-text data-i18n="text.041"
+                >60 張牌構成你的戰術。普通、非普通、稀有、傳說同名上限依序為 4、3、2、1 張；傳說合計最多 5 張。</i18n-text
+              >
+            </p>
+          </article>
+          <article>
+            <i>02</i>
+            <h3><i18n-text data-i18n="text.042">調度與部署</i18n-text></h3>
+            <p>
+              <i18n-text data-i18n="text.043"
+                >起始生命 30、手牌 5 張。指揮點由 3 逐回合增至 6；保留的點數可在對手回合使用。</i18n-text
+              >
+            </p>
+          </article>
+          <article>
+            <i>03</i>
+            <h3>
+              <i18n-text data-i18n="text.044">交戰與回應</i18n-text>
+            </h3>
+            <p>
+              <i18n-text data-i18n="text.045"
+                >選擇攻守姿態，運用協同、陷阱與反制。預判對手的意圖，比一味進攻更重要。</i18n-text
+              >
+            </p>
+          </article>
+          <article>
+            <i>04</i>
+            <h3>
+              <i18n-text data-i18n="text.046">命火未熄</i18n-text>
+            </h3>
+            <p>
+              <i18n-text data-i18n="text.047"
+                >生命歸零進入命火，當回合受保護；之後遭成功直接攻擊才敗北。必須抽牌卻牌庫不足，仍會立即敗北。</i18n-text
+              >
+            </p>
+          </article>
+        </div>
+        <details>
+          <summary>
+            <i18n-text data-i18n="text.048"
+              >展開進階規則摘要 ＋</i18n-text
+            >
+          </summary>
+          <p>
+            <i18n-text data-i18n="text.049"
+              >自己的整備階段，手牌不足 5 張時補至 5 張，先手首回合略過。效果完整結算後，超過 7 張的手牌須棄至 7 張。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.050"
+              >每方最多 4 個單位、2 張蓋放陷阱、1 張地形，每個單位最多 1 張裝備。召喚後即可攻擊，但先手首回合不能攻擊。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.051"
+              >攻擊姿態交戰時，比較攻擊力，較低一方單位被擊破，玩家承受差值傷害；相同則雙方不擊破。攻擊防守姿態時，比較攻擊與防禦，攻擊較高會擊破防守單位，通常不造成玩家傷害；較低則攻擊玩家承受差值。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.052"
+              >反制從手牌於合法回應時機使用，當下支付指揮點，回應途中不能犧牲湊費。雙方連續略過後，整串效果後發先結算。</i18n-text
+            >
+          </p>
+          <small
+            ><i18n-text data-i18n="text.053"
+              >開發中規則摘要；個別效果以目前卡文及遊戲內裁定為準。</i18n-text
+            ></small
+          >
+        </details>
+      </section>
+      <section class="section music" id="music">
+        <div class="album">
+          <img
+            alt="古王亡魂美術"
+            data-i18n-alt="text.223"
+            loading="lazy"
+            src="art/090.webp"
+          />
+          <div>
+            <span
+              ><i18n-text data-i18n="text.054"
+                >ORIGINAL SOUNDTRACK</i18n-text
+              ></span
+            >
+            <h2>
+              <i18n-text data-i18n="text.055">遺忘的王國，</i18n-text
+              ><br /><i18n-text data-i18n="text.056"
+                >仍有回聲。</i18n-text
+              >
+            </h2>
+            <p>
+              <i18n-text data-i18n="text.057"
+                >戴上耳機，走進群島的另一面。</i18n-text
+              >
+            </p>
+          </div>
+        </div>
+        <div class="playlist">
+          <p class="eyebrow">
+            <i18n-text data-i18n="text.058">04 / 音樂</i18n-text>
+          </p>
+          <h2>
+            <i18n-text data-i18n="text.059"
+              >讓故事，在音符中延續。</i18n-text
+            >
+          </h2>
+          <button
+            class="track theme-track"
+            data-src="theme/The Forgotten Kingdom.mp3"
+          >
+            <span>▷</span
+            ><span
+              ><i18n-text data-i18n="text.060">The Forgotten Kingdom</i18n-text
+              ><small
+                ><i18n-text data-i18n="text.061">主題曲 / THEME SONG</i18n-text></small
+              ></span
+            ><span><i18n-text data-i18n="text.062">播放</i18n-text></span>
+          </button>
+          <div id="tracks"></div>
+          <p aria-live="polite" class="subtle" id="now-playing">
+            <i18n-text data-i18n="text.063"
+              >選擇曲目開始聆聽</i18n-text
+            >
+          </p>
+          <audio controls="" id="player" preload="none"></audio>
+        </div>
+      </section>
+      <section class="section" id="films">
+        <p class="eyebrow">
+          <i18n-text data-i18n="text.064"
+            >05 / 影片與創作手記</i18n-text
+          >
+        </p>
+        <div id="music-stories">
+          <h2>
+            <i18n-text data-i18n="text.065"
+              >每一段旋律，都有它的來處。</i18n-text
+            >
+          </h2>
+          <p class="stories-intro">
+            <i18n-text data-i18n="text.066"
+              >觀看作品，也讀讀旋律背後的故事。</i18n-text
+            >
+          </p>
+        </div>
+        <article class="film-work" id="theme-story">
+          <h3>
+            <i18n-text data-i18n="text.067"
+              >主題曲｜The Forgotten Kingdom</i18n-text
+            >
+          </h3>
+          <iframe
+            allow="
+              accelerometer;
+              autoplay;
+              clipboard-write;
+              encrypted-media;
+              gyroscope;
+              picture-in-picture;
+              web-share;
+            "
+            allowfullscreen=""
+            class="youtube-film"
+            data-i18n-title="text.224"
+            loading="lazy"
+            referrerpolicy="strict-origin-when-cross-origin"
+            src="https://www.youtube-nocookie.com/embed/0QhImfHN6To"
+            title="主題曲｜The Forgotten Kingdom — YouTube 影片"
+          ></iframe>
+          <p class="video-link">
+            <a
+              href="https://www.youtube.com/watch?v=0QhImfHN6To"
+              rel="noopener noreferrer"
+              target="_blank"
+              ><i18n-text data-i18n="text.068">在 YouTube 觀看 ↗</i18n-text></a
+            >
+          </p>
+          <div class="music-story">
+            <h3>
+              <i18n-text data-i18n="text.069"
+                >創作理念與心得</i18n-text
+              >
+            </h3>
+            <div class="story-prose">
+              <p>
+                <i18n-text data-i18n="text.070"
+                  >這首主題曲的歌詞由我親自撰寫，並透過 Suno 音樂生成工具，依照我對旋律、曲風與氛圍的想像，經過反覆指示與調整後完成。</i18n-text
+                >
+              </p>
+              <p>
+                <i18n-text data-i18n="text.071"
+                  >歌詞誕生於某個平凡的下班夜晚。</i18n-text
+                >
+              </p>
+              <p>
+                <i18n-text data-i18n="text.072"
+                  >當時的我，正搭乘擁擠的板南線捷運，一隻手緊握著車廂扶手，在人潮擁擠的下班尖峰時刻閉上雙眼，想像自己是一位置身於《奧德賽》史詩世界中的吟遊詩人，向偶然路過的旅人吟唱著那些即將被歲月抹去、逐漸遭世人遺忘的古老傳奇，而寫下了這首歌詞。</i18n-text
+                >
+              </p>
+              <p>
+                <i18n-text data-i18n="text.073"
+                  >至於整體曲風，則深受 Two Steps From Hell、義大利鋼琴家 Ludovico Einaudi，以及奧斯卡得獎電影配樂大師 Hans Zimmer 的影響。我一直非常喜愛他們的作品，無論是氣勢磅礡的史詩樂章、細膩動人的鋼琴旋律，還是充滿畫面感的電影配樂，都深深吸引著我。</i18n-text
+                >
+              </p>
+              <p>
+                <i18n-text data-i18n="text.074"
+                  >他們的音樂，也是平時我戴著耳機、埋首撰寫程式碼時，最常陪伴我的旋律。</i18n-text
+                >
+              </p>
+              <p>
+                <i18n-text data-i18n="text.075"
+                  >因此，我希望這首主題曲不只是遊戲的背景音樂，更能承載我對奇幻世界的想像，彷彿一首跨越漫長歲月、訴說著失落史詩的吟遊詩歌。</i18n-text
+                >
+              </p>
+            </div>
+            <button
+              aria-expanded="false"
+              class="button story-expand"
+              type="button"
+            >
+              <span class="read-more"
+                ><i18n-text data-i18n="text.228"
+                  >閱讀完整心得</i18n-text
+                ></span
+              ><span class="read-less"
+                ><i18n-text data-i18n="text.229"
+                  >收合心得</i18n-text
+                ></span
+              >
+            </button>
+          </div>
+        </article>
+        <article class="film-work" id="ancient-king-story">
+          <h3>
+            <i18n-text data-i18n="text.076"
+              >古王－無名之願</i18n-text
+            >
+          </h3>
+          <iframe
+            allow="
+              accelerometer;
+              autoplay;
+              clipboard-write;
+              encrypted-media;
+              gyroscope;
+              picture-in-picture;
+              web-share;
+            "
+            allowfullscreen=""
+            class="youtube-film"
+            data-i18n-title="text.225"
+            loading="lazy"
+            referrerpolicy="strict-origin-when-cross-origin"
+            src="https://www.youtube-nocookie.com/embed/iMguWu0ZrcM"
+            title="古王－無名之願 — YouTube 影片"
+          ></iframe>
+          <p class="video-link">
+            <a
+              href="https://www.youtube.com/watch?v=iMguWu0ZrcM"
+              rel="noopener noreferrer"
+              target="_blank"
+              ><i18n-text data-i18n="text.068">在 YouTube 觀看 ↗</i18n-text></a
+            >
+          </p>
+          <div class="music-story">
+            <h3>
+              <i18n-text data-i18n="text.069"
+                >創作理念與心得</i18n-text
+              >
+            </h3>
+            <div class="story-prose">
+              <p>
+                <i18n-text data-i18n="text.077"
+                  >這首曲子的歌詞寫得非常快，快到連我自己都感到意外。</i18n-text
+                >
+              </p>
+              <p>
+                <i18n-text data-i18n="text.078"
+                  >不知道為什麼，某天搭捷運上班的途中，靈感就這麼毫無預警地湧現。短短不到五分鐘，整首歌詞最初的架構便已經在腦海中成形。</i18n-text
+                >
+              </p>
+              <p>
+                <i18n-text data-i18n="text.079"
+                  >最初，在設計與墓地機制有關的卡牌時，我創造了一位「古王」。</i18n-text
+                >
+              </p>
+              <p>
+                <i18n-text data-i18n="text.080"
+                  >他生前曾是一位統治王國的君主，然而即使死去多年，仍不斷有人向他祈願、呼喚，試圖將他從長眠中喚醒。</i18n-text
+                >
+              </p>
+              <p>
+                <i18n-text data-i18n="text.081"
+                  >古王對此感到困惑。</i18n-text
+                >
+              </p>
+              <blockquote>
+                <p>
+                  <i18n-text data-i18n="text.082"
+                    >「我早已不在人世，為何你們仍不斷呼喚我的名字？為何還要向一個死去的人乞求、許願？」</i18n-text
+                  >
+                </p>
+              </blockquote>
+              <p>
+                <i18n-text data-i18n="text.083"
+                  >就在那天的捷運車廂裡，這個疑問突然在我腦海中化作一連串鮮明的畫面。</i18n-text
+                >
+              </p>
+              <p>
+                <i18n-text data-i18n="text.084"
+                  >眾生跪拜於佛陀、帝王登臨泰山祭奠、僧人身著如同制服般的僧袍，以及頭頂那彷彿象徵身分冠印般的戒疤。</i18n-text
+                >
+              </p>
+              <p>
+                <i18n-text data-i18n="text.085"
+                  >這些畫面彼此交錯，讓我開始思考：當人們賦予某個存在神聖的地位，不斷向其膜拜與祈求時，究竟是在追尋信仰，還是在追尋自己心中對神聖權威的想像？</i18n-text
+                >
+              </p>
+              <p>
+                <i18n-text data-i18n="text.086"
+                  >我明白，這些聯想與畫面，對某些虔誠的宗教人士而言，可能會感到不舒服，甚至認為是一種冒犯。</i18n-text
+                >
+              </p>
+              <p>
+                <i18n-text data-i18n="text.087"
+                  >但我並無冒犯任何宗教或信仰的意圖。</i18n-text
+                >
+              </p>
+              <p>
+                <i18n-text data-i18n="text.088"
+                  >這首歌的核心靈感，其實深受我個人對《金剛經》的理解與體悟所影響。</i18n-text
+                >
+              </p>
+              <blockquote>
+                <p>
+                  <i18n-text data-i18n="text.089"
+                    >「一切有為法，如夢幻泡影。」</i18n-text
+                  >
+                </p>
+                <p>
+                  <i18n-text data-i18n="text.090"
+                    >「凡所有相，皆是虛妄。」</i18n-text
+                  >
+                </p>
+                <p>
+                  <i18n-text data-i18n="text.091"
+                    >「應無所住，而生其心。」</i18n-text
+                  >
+                </p>
+              </blockquote>
+              <p>
+                <i18n-text data-i18n="text.092"
+                  >這些經文讓我不斷思考，當我們放下對身分、地位、形象與神聖的執著後，眼前所見的一切，是否又會呈現出不同的意義？</i18n-text
+                >
+              </p>
+              <p>
+                <i18n-text data-i18n="text.093"
+                  >一位帝王，死後仍是帝王嗎？一位被萬人膜拜的存在，是否就因此成為了神？</i18n-text
+                >
+              </p>
+              <p>
+                <i18n-text data-i18n="text.094"
+                  >而當人們不斷向他祈願時，又有誰曾經想過，他自己是否也有無法實現的願望？</i18n-text
+                >
+              </p>
+              <p>
+                <i18n-text data-i18n="text.095"
+                  >帶著這些疑問，我完成了《古王－無名之願》的歌詞，並透過 Suno 音樂生成工具，反覆調整，逐漸呈現出我心中所想像的旋律與氛圍。</i18n-text
+                >
+              </p>
+              <p>
+                <i18n-text data-i18n="text.096"
+                  >也許有人會覺得，這首歌的歌詞並不特別精簡，也沒有刻意使用華麗、優美或充滿詩意的詞藻，反而更像是平凡人在日常生活中的自言自語。</i18n-text
+                >
+              </p>
+              <p>
+                <i18n-text data-i18n="text.097"
+                  >這正是我刻意做出的選擇。</i18n-text
+                >
+              </p>
+              <p>
+                <i18n-text data-i18n="text.098"
+                  >我想透過這首歌，傳遞一種我個人所理解的「佛亦非佛，眾生亦佛」的概念。</i18n-text
+                >
+              </p>
+              <p>
+                <i18n-text data-i18n="text.099"
+                  >在我的想像裡，即使是一位被後世奉為神聖、接受萬人祈願的古王，褪去所有光環與稱號後，或許也只是一個曾經活過、有過喜怒哀樂，也有著無法實現願望的普通人。</i18n-text
+                >
+              </p>
+              <p>
+                <i18n-text data-i18n="text.100"
+                  >因此，我刻意讓歌詞保留近乎凡人對話般的直白與樸實。</i18n-text
+                >
+              </p>
+              <p>
+                <i18n-text data-i18n="text.101"
+                  >因為我想描寫的，不是一位高高在上、無所不能的神明，而是一個即使被世人奉為神明，內心卻依然充滿疑惑的靈魂。</i18n-text
+                >
+              </p>
+              <blockquote>
+                <p>
+                  <i18n-text data-i18n="text.102"
+                    >當世人都在向他許願時，又有誰願意聆聽古王自己的願望？</i18n-text
+                  >
+                </p>
+              </blockquote>
+            </div>
+            <button
+              aria-expanded="false"
+              class="button story-expand"
+              type="button"
+            >
+              <span class="read-more"
+                ><i18n-text data-i18n="text.228"
+                  >閱讀完整心得</i18n-text
+                ></span
+              ><span class="read-less"
+                ><i18n-text data-i18n="text.229"
+                  >收合心得</i18n-text
+                ></span
+              >
+            </button>
+          </div>
+        </article>
+        <article class="film-work" id="knight-story">
+          <h3>
+            <i18n-text data-i18n="text.103"
+              >王城騎士－錯誤時代</i18n-text
+            >
+          </h3>
+          <iframe
+            allow="
+              accelerometer;
+              autoplay;
+              clipboard-write;
+              encrypted-media;
+              gyroscope;
+              picture-in-picture;
+              web-share;
+            "
+            allowfullscreen=""
+            class="youtube-film"
+            data-i18n-title="text.226"
+            loading="lazy"
+            referrerpolicy="strict-origin-when-cross-origin"
+            src="https://www.youtube-nocookie.com/embed/ZUftXkOA_Vo"
+            title="王城騎士－錯誤時代 — YouTube 影片"
+          ></iframe>
+          <p class="video-link">
+            <a
+              href="https://www.youtube.com/watch?v=ZUftXkOA_Vo"
+              rel="noopener noreferrer"
+              target="_blank"
+              ><i18n-text data-i18n="text.068">在 YouTube 觀看 ↗</i18n-text></a
+            >
+          </p>
+          <div class="music-story">
+            <h3>
+              <i18n-text data-i18n="text.069"
+                >創作理念與心得</i18n-text
+              >
+            </h3>
+            <div class="story-prose">
+              <p>
+                <i18n-text data-i18n="text.104"
+                  >「王城騎士」是我最早設計的卡牌系列，也是整個遊戲創作的起點。因此，在世界觀與美術風格上，很自然地融入了經典奇幻作品中常見的騎士、戰爭、守護、正義與神聖等元素。</i18n-text
+                >
+              </p>
+              <p>
+                <i18n-text data-i18n="text.105"
+                  >然而，當我開始為這個系列撰寫主題曲時，我想描寫的卻不是騎士的英勇，也不是戰爭勝利後的榮耀，而是一個戰士在踏上戰場之前，最脆弱、最不願讓人看見的一面。</i18n-text
+                >
+              </p>
+              <p>
+                <i18n-text data-i18n="text.106"
+                  >這首歌的歌詞，是我趁著工作休息的空檔完成的。說來有些難為情，當時的我幾乎是紅著眼眶、含著眼淚寫完的。一邊構思歌詞，一邊想像故事中的情境，情緒竟然不知不覺地湧了上來。我甚至有點擔心被同事發現，心想他們會不會覺得我瘋了，怎麼有人寫程式寫到快哭出來？（笑）</i18n-text
+                >
+              </p>
+              <p>
+                <i18n-text data-i18n="text.107"
+                  >完成歌詞後，我便將歌詞與自己構思的音樂風格交由 Suno 工具生成，再依照想要的情緒與氛圍進行調整。</i18n-text
+                >
+              </p>
+              <p>
+                <i18n-text data-i18n="text.108"
+                  >這首歌所描寫的，是一位明知自己踏上戰場後，絕對不可能活著歸來的戰士。在離別之際，他仍溫柔、澎湃地安慰著自己的伴侶，告訴對方不必擔心，自己一定會平安歸來，甚至許下了春天再度相見的承諾。</i18n-text
+                >
+              </p>
+              <p>
+                <i18n-text data-i18n="text.109"
+                  >但他心裡比任何人都清楚，他回不來了……即使如此，他還是必須出發。</i18n-text
+                >
+              </p>
+              <blockquote>
+                <p>
+                  <i18n-text data-i18n="text.110"
+                    >「因為有些責任，不會因為一個人感到害怕、悲傷或不願離去，就允許他選擇逃避。」</i18n-text
+                  >
+                </p>
+              </blockquote>
+              <p>
+                <i18n-text data-i18n="text.111"
+                  >因此，在整首歌曲的編排上，我刻意讓兩種截然不同的情緒不斷交錯。一邊是氣勢磅礡、情緒激昂的旋律，伴隨著戰士反覆安慰伴侶、堅定承諾自己將在春天歸來的歌詞。另一邊，則是帶著哭腔般的女性和聲，彷彿在那些堅強的承諾背後，輕聲唱出戰士內心早已明白、卻始終無法親口說出的真相。</i18n-text
+                >
+              </p>
+              <p>
+                <i18n-text data-i18n="text.112"
+                  >而這樣的聲音安排，其實有著我個人的想法。在傳統的刻板印象中，男性往往被期待扮演堅強、勇敢、保護他人的角色；女性則經常被描繪成較為柔弱、需要受到保護的一方。</i18n-text
+                >
+              </p>
+              <p>
+                <i18n-text data-i18n="text.113"
+                  >但我始終覺得，這樣的界線並沒有那麼絕對。就像劉德華曾經唱過一首歌叫做《男人哭吧不是罪》。</i18n-text
+                >
+              </p>
+              <p>
+                <i18n-text data-i18n="text.114"
+                  >難道一個身披鎧甲、手握長劍的戰士，就不會害怕死亡嗎？難道一個肩負守護責任的人，就沒有想哭的時候嗎？</i18n-text
+                >
+              </p>
+              <p>
+                <i18n-text data-i18n="text.115"
+                  >當一個人明明已經痛苦到快要崩潰，卻因為身分、責任與他人的期待，而不得不繼續裝作堅強時，他又能怎麼辦？這也是我跟許多人一樣，身為人父、踏入中年時最深的體會。</i18n-text
+                >
+              </p>
+              <p>
+                <i18n-text data-i18n="text.116"
+                  >所以，我刻意讓女性和聲承載戰士內心最脆弱的聲音。那並不代表女性就是脆弱的，而是我想藉由這種與傳統戰士形象形成反差的聲音，呈現出一個被鎧甲、責任與勇氣掩蓋的真實靈魂。</i18n-text
+                >
+              </p>
+              <p>
+                <i18n-text data-i18n="text.117"
+                  >因為有時候，那些看起來最堅強、總是站在最前方保護別人的人，其實也同樣渴望被保護、被理解，甚至只是得到一個能夠放心哭泣的擁抱。</i18n-text
+                >
+              </p>
+              <blockquote>
+                <p>
+                  <i18n-text data-i18n="text.118"
+                    >「只是現實不一定允許他們這麼做。」</i18n-text
+                  >
+                </p>
+              </blockquote>
+              <p>
+                <i18n-text data-i18n="text.119"
+                  >於是，戰士只能把恐懼藏進鎧甲，把悲傷藏進笑容，再用一句「我一定會回來」，作為留給心愛之人最後的安慰。</i18n-text
+                >
+              </p>
+              <p>
+                <i18n-text data-i18n="text.120"
+                  >他並不是不知道自己說了謊。而是他知道，有時候真相太過殘酷，殘酷到他寧願讓對方懷抱希望，也不願讓對方在離別的那一刻，就承受失去他的痛苦。整首《王城騎士－錯誤時代》，便是在這樣的矛盾中誕生。</i18n-text
+                >
+              </p>
+              <p>
+                <i18n-text data-i18n="text.121"
+                  >一邊是向現實與責任妥協，不得不說出口的謊言；另一邊，則是內心無法停止的掙扎、不捨，以及對心愛之人最深沉的祝福。</i18n-text
+                >
+              </p>
+              <p>
+                <i18n-text data-i18n="text.122"
+                  >也正因為如此，當我寫下那些看似堅定、充滿希望的承諾時，腦海裡浮現的卻始終是那位戰士明知自己無法履行諾言，仍努力擠出笑容的模樣。</i18n-text
+                >
+              </p>
+              <p>
+                <i18n-text data-i18n="text.123"
+                  >最後，我就這樣一邊忍著眼淚，一邊完成了整首歌詞。我想描寫的從來不是一位不畏死亡的英雄，而是一個明明害怕得不得了，卻仍然選擇踏上戰場的普通人。</i18n-text
+                >
+              </p>
+              <blockquote>
+                <p>
+                  <i18n-text data-i18n="text.124"
+                    >因為有時候，所謂的勇敢，並不是不會害怕，而是即使害怕，也沒有退路。</i18n-text
+                  >
+                </p>
+              </blockquote>
+            </div>
+            <button
+              aria-expanded="false"
+              class="button story-expand"
+              type="button"
+            >
+              <span class="read-more"
+                ><i18n-text data-i18n="text.228"
+                  >閱讀完整心得</i18n-text
+                ></span
+              ><span class="read-less"
+                ><i18n-text data-i18n="text.229"
+                  >收合心得</i18n-text
+                ></span
+              >
+            </button>
+          </div>
+        </article>
+      </section>
+      <section class="section creator creator-story" id="creator">
+        <div class="creator-heading">
+          <p class="eyebrow">
+            <i18n-text data-i18n="text.125">06 / 關於我</i18n-text>
+          </p>
+          <h2>
+            <i18n-text data-i18n="text.126"
+              >一個世界，從一個念頭開始。</i18n-text
+            >
+          </h2>
+        </div>
+        <article class="creator-prose">
+          <p>
+            <i18n-text data-i18n="text.127"
+              >我是一個喜歡卡牌遊戲的普通玩家。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.128"
+              >從《魔法風雲會》、《遊戲王》，到近年來讓我深深著迷的《Sorcery: Contested Realm》，卡牌遊戲從國小一路陪伴我成長，直到如今成為三個孩子的父親，幾乎貫穿了我人生的每一個階段。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.129"
+              >也因為如此，我始終有個念頭在心中揮之不去：</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.130"
+              >「如果有一天，我能親手設計一款屬於自己的卡牌遊戲，那會是什麼模樣？」</i18n-text
+            >
+          </p>
+          <h3>
+            <i18n-text data-i18n="text.133"
+              >那些年，我們的黑暗決鬥</i18n-text
+            >
+          </h3>
+          <p>
+            <i18n-text data-i18n="text.134"
+              >我永遠忘不了國小五年級時，和同學們進行的「黑暗決鬥」。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.135"
+              >當時我們會各自站在高高的椅子上進行對戰，而勝利者可以任意挑選對手牌組中的一張卡，當場撕毀，最後還要露出海馬社長那副不可一世的表情。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.136"
+              >現在回想起來，這規則實在有夠荒謬（笑）。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.137"
+              >雖然看著心愛的卡牌被撕毀真的很心痛，但不得不承認，那種黑暗決鬥帶來的刺激感，至今仍讓我難以忘懷。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.138"
+              >尤其當戰局陷入劣勢，眼看自己珍藏的卡牌即將遭殃時，大腦就會開始瘋狂運轉，拚命思考手上還有哪些資源、哪些組合，以及究竟該怎麼做才能逆轉局勢。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.139"
+              >那種絞盡腦汁尋找解法，最後成功反敗為勝的成就感，大概就是我至今依然熱愛卡牌遊戲的原因之一。</i18n-text
+            >
+          </p>
+          <h3>
+            <i18n-text data-i18n="text.140"
+              >長大以後，夢想卻越來越遙遠</i18n-text
+            >
+          </h3>
+          <p>
+            <i18n-text data-i18n="text.141"
+              >如今，我是一名前端工程師（自居軟體工程師），也曾從事將近十年的視覺設計工作，擔任過視覺設計主管。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.142"
+              >程式設計與視覺創作，剛好都是製作卡牌遊戲所需要的能力。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.143"
+              >照理來說，我似乎具備了實現這個夢想的條件。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.144"
+              >但問題是，我已經不是那個有大把時間可以揮霍的二十幾歲年輕人了。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.145"
+              >現在的我，是三個孩子的父親。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.146"
+              >每天早出晚歸，白天是工程師，下班後則要陪伴孩子、照顧家庭。等到所有事情忙完，真正屬於自己的時間，往往已經所剩無幾。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.147"
+              >要我親手繪製上百張卡牌插畫，再從零開始撰寫完整的卡牌戰鬥引擎？</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.148"
+              >或許單身時的我真的辦得到。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.149"
+              >但現在，光是想到這些工作量，就覺得這個夢想恐怕得等到孩子們長大成人、出社會以後，才有機會實現。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.150"
+              >那可能已經是十幾年後的事情了。</i18n-text
+            >
+          </p>
+          <h3>
+            <i18n-text data-i18n="text.151"
+              >但我始終不願意放棄這個念頭</i18n-text
+            >
+          </h3>
+          <p>
+            <i18n-text data-i18n="text.152"
+              >即使如此，內心那股創作的慾望，卻從來沒有真正消失。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.153"
+              >我真的很想做出一款屬於自己的卡牌遊戲。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.154"
+              >這款遊戲的卡牌美術，必須是我真正喜愛的風格。不是單純為了填滿卡面而存在的插畫，而是美到讓我願意把它裱框，掛在自己家客廳牆上的作品，甚至辦展覽展出。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.155"
+              >這款遊戲的戰鬥機制，必須符合我對卡牌對戰的想像。出牌要直覺，反制要有策略，卡牌之間的互動與連鎖，必須能帶來讓人反覆思考的樂趣。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.156"
+              >至於資源與費用管理，我也想跳脫自己過去熟悉的框架，嘗試一套真正符合自己理念的系統。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.157"
+              >我不想只是複製一款已經存在的遊戲。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.158"
+              >我想把這些年來玩過的卡牌遊戲、累積的經驗，以及那些「如果這個機制可以這樣設計，會不會更有趣？」的想法，全部融入自己的作品。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.159"
+              >只是，對一個年紀逐漸逼近四十歲、每天忙著工作與照顧三個孩子的人來說，這樣的願望似乎有些不切實際。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.160"
+              >甚至偶爾會自嘲，自己都快一隻腳踏進棺材了，難道還要等到退休才有機會做出這款遊戲嗎？</i18n-text
+            >
+          </p>
+          <h3>
+            <i18n-text data-i18n="text.161"
+              >直到 AI 工具的出現，讓我重新看見可能性</i18n-text
+            >
+          </h3>
+          <p>
+            <i18n-text data-i18n="text.162"
+              >近幾年，AI 技術以驚人的速度發展。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.163"
+              >起初，我和許多人一樣，對 AI 工具抱持著好奇，也帶著一些懷疑。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.164"
+              >直到公司開始導入 AI 工具輔助工作，我才逐漸理解，這項技術真正能夠帶來的幫助。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.165"
+              >它不一定能取代人的創意與判斷，但確實能大幅降低將想法付諸實現的門檻。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.166"
+              >而那個在我心中沉寂許久、關於創作卡牌遊戲的小宇宙，似乎又開始慢慢聚集起來了。</i18n-text
+            >
+          </p>
+          <p><i18n-text data-i18n="text.167">我開始思考：</i18n-text></p>
+          <p>
+            <i18n-text data-i18n="text.168"
+              >「如果我不需要獨自完成所有事情，而是讓 AI 成為我的工具，那麼，這個夢想是不是終於有機會實現了？」</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.169"
+              >於是，我開始利用生活中所有能夠擠出來的零碎時間，進行各種嘗試。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.170"
+              >每天早上，走在前往捷運站的路上，我會思考卡牌規則與戰鬥邏輯可能遇到的問題。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.171"
+              >坐上捷運後，我透過遠端工具，指示 AI 實作功能雛形，或針對某個想法進行最小可行性驗證（MVP）。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.172"
+              >上班途中，偶爾利用上廁所的幾分鐘，補充新的測試條件、調整驗證方向。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.173"
+              >到了中午休息時間，再檢查 AI 完成的成果，確認邏輯是否符合我的預期。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.174"
+              >如果不符合，就重新思考、修改需求，再進行下一輪驗證。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.175"
+              >日復一日，我不斷重複這樣的過程。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.176"
+              >沒有完整的開發時段，也沒有能讓我整天埋頭創作的工作室。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.177"
+              >只有每天通勤、午休，以及生活中那些零零碎碎的空檔。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.178"
+              >而到了晚上，孩子們睡了，自己也準備休息時，我又會忍不住翻閱那些多年來深深吸引我的美術作品。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.179"
+              >從構圖、光影、色彩到整體氛圍，反覆尋找著心目中最適合這款卡牌遊戲的視覺風格。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.180"
+              >我不知道這樣的嘗試最後能走多遠。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.181"
+              >但至少，這一次，我不再只是想像自己有一天能做出一款卡牌遊戲，而是真的開始動手了。</i18n-text
+            >
+          </p>
+          <h3>
+            <i18n-text data-i18n="text.182">最後，我想談談 AI</i18n-text>
+          </h3>
+          <p>
+            <i18n-text data-i18n="text.183"
+              >我知道，有些人不喜歡 AI 參與創作，甚至對 AI 生成的作品抱持排斥的態度。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.184"
+              >這些想法我都能理解，因為我也曾經是其中一員。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.185"
+              >但隨著我開始深入使用 AI，並將它實際應用在工作與創作中，我逐漸有了一個自己的體悟：</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.186"
+              >「AI 確實可以取代人完成許多工作，但完成一件事，與把一件事做好，是兩回事。」</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.187"
+              >我舉一個自己在工作中遇到的例子。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.188"
+              >有一次，我碰到一個很簡單的程式邏輯問題。當時我心想，這應該不是什麼困難的事情，只是懶得自己去翻找對應的參數，於是乾脆交給 AI 處理，自己則把時間拿去思考其他更重要的專案。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.189"
+              >結果，當我回頭檢查 AI 的成果時，整個人都傻眼了。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.190"
+              >它竟然為了處理這麼一個小問題，額外寫了上百行程式碼！</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.191"
+              >更有趣的是，它並沒有寫錯。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.192"
+              >AI 確實解決了問題，功能也能正常運作。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.193"
+              >但我看完之後，直接把它新增的上百行程式碼全部刪除，回頭檢查原本的邏輯，只調整了一個既有參數的觸發條件，問題就解決了。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.194"
+              >整個過程只花了我幾秒鐘。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.195"
+              >這件事讓我印象非常深刻。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.196"
+              >AI 不是沒有能力解決問題，而是它選擇了一條遠比必要程度更加複雜的道路。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.197"
+              >它完成了我交代的任務，卻沒有做出我認為最理想的解決方案。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.198"
+              >當然，我也可以說是自己沒有把需求交代清楚。如果一開始就明確要求它優先檢查既有邏輯、避免增加額外程式碼，或許結果就會完全不同。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.199"
+              >但這也正是我想表達的事情。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.200"
+              >AI 的能力固然重要，但使用者的經驗、判斷，以及能否提出正確的問題，同樣重要。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.201"
+              >所以，AI 到底能不能取代人？</i18n-text
+            >
+          </p>
+          <p><i18n-text data-i18n="text.202">我認為，可以。</i18n-text></p>
+          <p>
+            <i18n-text data-i18n="text.203"
+              >它確實已經能夠完成許多過去必須由人親自處理的工作，而且隨著技術進步，未來能做到的事情只會越來越多。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.204"
+              >但我也逐漸明白，能夠把事情做出來，不代表就知道為什麼要這樣做；能夠解決問題，也不代表一定選擇了最適合的解決方式。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.205"
+              >而這些，正是經驗、創意與判斷力能夠發揮價值的地方。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.206"
+              >回到這款卡牌遊戲。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.207"
+              >我不否認 AI 在開發過程中扮演了非常重要的角色。沒有它的協助，以我目前的工作與家庭生活，要獨自完成這樣規模的作品，恐怕真的得再等上十幾年。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.208"
+              >但我始終清楚自己想做的是什麼。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.209"
+              >我想要什麼樣的美術風格、什麼樣的戰鬥節奏、什麼樣的資源管理方式，以及玩家在面對一場即將落敗的對局時，應該還能擁有哪些逆轉局勢的可能性。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.210"
+              >這些想法來自我多年來對卡牌遊戲的熱愛，也是我在開發過程中不斷思考、嘗試、推翻與修正的結果。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.211"
+              >AI 幫助我把想法變成現實，而我則必須不斷判斷，眼前的成果究竟是不是自己真正想要的遊戲。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.212"
+              >我不認為使用 AI 就能讓一個作品自動變得優秀，也不認為使用 AI 就代表創作者不需要付出心力。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.213"
+              >對我而言，它是一項工具，一項讓我終於有機會跨越時間與能力限制，實現多年夢想的工具。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.214"
+              >我不是因為 AI 才開始想做卡牌遊戲。</i18n-text
+            >
+          </p>
+          <p>
+            <i18n-text data-i18n="text.215"
+              >而是因為 AI，我終於有機會把那個從小藏在心裡的卡牌遊戲，真正做出來。</i18n-text
+            >
+          </p>
+        </article>
+        <button aria-expanded="false" class="button story-expand" type="button">
+          <span class="read-more"
+            ><i18n-text data-i18n="text.131"
+              >閱讀完整創作故事 ＋</i18n-text
+            ></span
+          ><span class="read-less"
+            ><i18n-text data-i18n="text.132">收起創作故事 −</i18n-text></span
+          ></button
+        ><a class="button" href="#home"
+          ><i18n-text data-i18n="text.216">回到群島之巔 ↑</i18n-text></a
+        >
+      </section>
+    </main>
+    <footer>
+      <span
+        ><img
+          alt="王冠群島"
+          class="site-logo"
+          data-logo=""
+          src="branding/crown-islands-zh-TW.webp" /></span
+      ><a href="#cards"
+        ><i18n-text data-i18n="text.218">探索圖鑑 ↗</i18n-text></a
+      ><a data-language-link="privacy.html" href="privacy.html"
+        ><i18n-text data-i18n="privacy.link">隱私權政策</i18n-text></a
+      >
+      <details class="platform-credits">
+        <summary>
+          <i18n-text data-i18n="credits.title"
+            >平台商標與素材來源</i18n-text
+          >
+        </summary>
+        <p>
+          <i18n-text data-i18n="credits.apple"
+            >App Store 為 Apple Inc. 的商標。</i18n-text
+          >
+        </p>
+        <p>
+          <i18n-text data-i18n="credits.android"
+            >Android 為 Google LLC 的商標。Android 機器人重製或修改自 Google 建立與分享的作品，依 Creative Commons 3.0 姓名標示授權條款使用。</i18n-text
+          >
+          <a
+            href="https://creativecommons.org/licenses/by/3.0/"
+            rel="noopener"
+            target="_blank"
+            ><i18n-text data-i18n="credits.license">CC BY 3.0</i18n-text></a
+          >
+        </p>
+        <p>
+          <i18n-text data-i18n="credits.steam"
+            >Steam 與 Steam 標誌為 Valve Corporation 在美國及／或其他國家的商標或註冊商標。</i18n-text
+          >
+        </p>
+      </details>
+    </footer>
+    <dialog id="detail">
+      <button
+        aria-label="關閉卡牌詳情"
+        class="close"
+        data-i18n-aria-label="text.227"
+      >
+        ✕
+      </button>
+      <div id="detail-content"></div>
+    </dialog>
+    <script src="data.js"></script>
+    <script src="i18n.js"></script>
+    <script src="app.js"></script>
+    <dialog aria-labelledby="release-message" id="release-notice">
+      <p class="eyebrow" id="release-platform"></p>
+      <h2 id="release-message">
+        <i18n-text data-i18n="download.message"
+          >上架中，請期待。</i18n-text
+        >
+      </h2>
+      <form method="dialog">
+        <button class="button gold">
+          <i18n-text data-i18n="download.close">我知道了</i18n-text>
+        </button>
+      </form>
+    </dialog>
+    <script src="site.js"></script>
+  </body>
+</html>

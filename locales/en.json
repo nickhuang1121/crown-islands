@@ -1,0 +1,1823 @@
+{
+  "strings": {
+    "text.001": "Crown Islands | Nick's Card Game",
+    "text.002": "The Game",
+    "text.003": "Cards",
+    "text.004": "How to Play",
+    "text.005": "Music",
+    "text.006": "Videos",
+    "text.007": "About Me",
+    "text.008": "BEASTBOUND BATTLEFIELDS · STRATEGY CARD GAME",
+    "text.009": "As long as your Life Flame burns, you're still in the fight.",
+    "text.010": "Make your move at the edge of the kingdom.",
+    "text.011": "Gather your creatures, manage your Command Points, and turn every card into a chance for a comeback.",
+    "text.012": "Explore the Cards",
+    "text.013": "▷ Watch the Theme Video",
+    "text.014": "A game in the making / Art, music, and gameplay",
+    "text.015": "THE KINGDOM AWAITS",
+    "text.016": "Every adventure starts with a choice.",
+    "text.017": "SCROLL TO EXPLORE ↓",
+    "text.018": "THE WORLD OF CROWN ISLANDS",
+    "text.019": "01 / THE GAME",
+    "text.020": "Across these islands,",
+    "text.021": "there's more than one way to win.",
+    "text.022": "From Royal Arsenal and Wildwood Assault to Sea & Sky Raid and Ruins Watch, find your style and build your own 60-card deck.",
+    "text.023": "Go all in on an attack, or save some Command Points to turn things around with a counter on your opponent's turn. Every card you play opens up your next move.",
+    "text.024": "cards to shape your strategy",
+    "text.025": "unit slots. Make each one count.",
+    "text.026": "possibilities to explore",
+    "text.027": "02 / CARD LIBRARY",
+    "text.028": "A whole world in every card.",
+    "text.029": "Pick a card to read its effect and take a closer look at the web artwork.",
+    "text.030": "All",
+    "text.031": "Units",
+    "text.032": "Spells",
+    "text.033": "Equipment",
+    "text.034": "Traps",
+    "text.035": "Counters",
+    "text.036": "Terrain",
+    "text.037": "Explore More Cards ↓",
+    "text.038": "03 / HOW TO PLAY",
+    "text.039": "Make every move count, right down to your last Life Flame.",
+    "text.040": "Build Your Deck",
+    "text.041": "Your strategy starts with 60 cards. You can include up to 4 copies of a Common, 3 of an Uncommon, 2 of a Rare, and 1 of a Legendary. Your deck can have no more than 5 Legendary cards in total.",
+    "text.042": "Plan and Deploy",
+    "text.043": "Start with 30 life and 5 cards in hand. Your base Command Points rise from 3 to 6 over your turns. Unspent points stay available during your opponent's turn.",
+    "text.044": "Attack and Respond",
+    "text.045": "Choose your stance and use coordinated attacks, traps, and counters. Reading your opponent matters more than simply attacking at every opportunity.",
+    "text.046": "Keep the Flame Alive",
+    "text.047": "At zero life, you enter Life Flame and are protected for that turn. After that, a successful direct attack defeats you. Having to draw when your deck doesn't have enough cards still means an immediate loss.",
+    "text.048": "More Rules at a Glance ＋",
+    "text.049": "During your preparation phase, draw up to 5 cards if you have fewer. The first player skips this on their first turn. Once an effect has fully resolved, discard down to 7 if you're over the hand limit.",
+    "text.050": "Each player can have up to 4 units, 2 face-down traps, and 1 terrain card. Each unit can carry 1 equipment card. Units can attack as soon as they're summoned, except on the first player's first turn.",
+    "text.051": "When two attack-position units fight, compare their attack values. The weaker unit is destroyed, and its player takes the difference as damage. A tie destroys neither unit. Against a defending unit, compare attack to defense: a higher attack destroys the defender, usually without hurting its player; a lower attack deals the difference to the attacking player.",
+    "text.052": "Play counters from your hand when a valid response window opens, paying Command Points right away. You can't sacrifice cards to pay during a response. Once both players pass in a row, the chain resolves from the last effect played to the first.",
+    "text.053": "These rules are still in development. Check the current card text and in-game rulings for individual effects.",
+    "text.054": "ORIGINAL SOUNDTRACK",
+    "text.055": "A forgotten kingdom.",
+    "text.056": "An echo that lives on.",
+    "text.057": "Put on your headphones and discover another side of the islands.",
+    "text.058": "04 / MUSIC",
+    "text.059": "Let the music carry the story.",
+    "text.060": "The Forgotten Kingdom",
+    "text.061": "THEME SONG",
+    "text.062": "Play",
+    "text.063": "Choose a track to start listening",
+    "text.064": "05 / VIDEOS & THE STORIES BEHIND THEM",
+    "text.065": "Every melody starts somewhere.",
+    "text.066": "Watch the videos, then read about the ideas and moments behind the music.",
+    "text.067": "Theme Song | The Forgotten Kingdom",
+    "text.068": "Watch on YouTube ↗",
+    "text.069": "The Story Behind the Song",
+    "text.070": "I wrote the lyrics myself, then used Suno to bring the music to life. It took plenty of prompting and tweaking to get closer to the melody, style, and mood I had in mind.",
+    "text.071": "The lyrics came to me on an ordinary evening after work.",
+    "text.072": "I was on a packed Bannan Line train, one hand gripping the handrail in the middle of rush hour. I closed my eyes and imagined I was a bard in the world of The Odyssey, singing to passing travelers about ancient legends slowly fading from memory. That's where these lyrics began.",
+    "text.073": "The sound was strongly influenced by Two Steps From Hell, Italian pianist Ludovico Einaudi, and Oscar-winning film composer Hans Zimmer. I've always loved their work, from sweeping epic music and tender piano melodies to film scores that make you see an entire scene in your head.",
+    "text.074": "Their music is also what I often have in my headphones when I'm deep in code.",
+    "text.075": "So I wanted this theme to be more than background music for a game. I wanted it to hold my own vision of a fantasy world, like a bard's song traveling through the ages, telling a long-lost epic.",
+    "text.076": "Ancient King — The Nameless Wish",
+    "text.077": "The lyrics for this song came together so quickly that even I was surprised.",
+    "text.078": "One morning on the train to work, inspiration hit me out of nowhere. In less than five minutes, the first outline of the whole song had formed in my head.",
+    "text.079": "It started with the Ancient King, a character I created while designing cards built around graveyard mechanics.",
+    "text.080": "He once ruled a kingdom. Yet even years after his death, people kept praying to him and calling his name, trying to wake him from his long sleep.",
+    "text.081": "The Ancient King couldn't understand it.",
+    "text.082": "“I've been dead for so long. Why do you keep calling my name? Why are you still asking a dead man to grant your wishes?”",
+    "text.083": "There in the train carriage, that question suddenly turned into a series of vivid images in my mind.",
+    "text.084": "People kneeling before the Buddha. Emperors climbing Mount Tai to perform sacred rites. Monks wearing robes that looked almost like uniforms, with ritual burn marks on their heads that reminded me of crowns or seals of status.",
+    "text.085": "As those images overlapped, I started wondering: when we call something sacred and keep bowing and praying to it, are we seeking faith, or chasing our own idea of what sacred authority should look like?",
+    "text.086": "I know these associations and images might make some deeply religious people uncomfortable, or even feel offensive.",
+    "text.087": "But I have no intention of insulting any religion or belief.",
+    "text.088": "At its heart, this song was shaped by my own reading and understanding of the Diamond Sutra.",
+    "text.089": "“All conditioned things are like dreams, illusions, bubbles, and shadows.”",
+    "text.090": "“All appearances are illusory.”",
+    "text.091": "“Let the mind arise without clinging to anything.”",
+    "text.092": "These passages keep bringing me back to a question: if we let go of our attachment to identity, status, appearances, and the sacred, might everything in front of us take on a different meaning?",
+    "text.093": "Is an emperor still an emperor after death? Does being worshipped by thousands make someone a god?",
+    "text.094": "And while everyone keeps asking him to grant their wishes, has anyone wondered whether he has an unfulfilled wish of his own?",
+    "text.095": "With those questions in mind, I finished the lyrics for Ancient King — The Nameless Wish. Then I used Suno, making adjustment after adjustment until the melody and mood began to match what I imagined.",
+    "text.096": "Some people might find the lyrics a little wordy. They don't aim for elaborate, beautiful, or especially poetic language. They sound more like an ordinary person thinking out loud.",
+    "text.097": "That was a deliberate choice.",
+    "text.098": "I wanted to express my own understanding of an idea: “The Buddha is not bound by the name Buddha; ordinary beings can be Buddhas too.”",
+    "text.099": "In my imagination, even an ancient king worshipped as sacred by generations of people might, beneath all those titles and halos, simply be someone who once lived, felt joy and anger and sorrow, and had wishes that never came true.",
+    "text.100": "That's why I kept the lyrics plain and direct, almost like an everyday conversation.",
+    "text.101": "I wasn't trying to portray an almighty god looking down from above. I wanted to write about a soul still full of questions, even after the world had turned him into a god.",
+    "text.102": "When everyone is asking the Ancient King to grant their wishes, who is willing to listen to his?",
+    "text.103": "Royal Knights — In the Wrong Age",
+    "text.104": "Royal Knights was the first card series I designed, and the starting point for the whole game. So knights, war, protection, justice, and sacred imagery naturally found their way into its world and art, just as they do in so many classic fantasy stories.",
+    "text.105": "But when I started writing a song for the series, I didn't want to focus on a knight's bravery or the glory of winning a war. I wanted to show a warrior's most vulnerable side, the part he least wants anyone to see before he leaves for battle.",
+    "text.106": "I wrote the lyrics during breaks at work. It's a little embarrassing to admit, but I was close to tears through most of it. As I pictured the scenes and worked out the words, the emotion just crept up on me. I even worried a coworker would notice and think I'd lost it. Who nearly cries while writing code? Ha!",
+    "text.107": "Once the lyrics were finished, I gave them to Suno along with the musical style I had in mind, then adjusted the result to find the emotion and atmosphere I wanted.",
+    "text.108": "The song follows a warrior who knows he won't come home alive once he goes to war. As he says goodbye, he comforts his partner with warmth and conviction. He tells them not to worry, promises he'll return safely, and even says they'll see each other again in spring.",
+    "text.109": "But he knows better than anyone that he isn't coming back… and he still has to go.",
+    "text.110": "“Some responsibilities don't let you walk away just because you're scared, heartbroken, or not ready to leave.”",
+    "text.111": "That's why I built the arrangement around two very different emotions weaving in and out of each other. On one side, there's soaring, powerful music as the warrior keeps reassuring his partner and promising to return in spring. On the other, a female harmony sounds almost like crying, quietly singing the truth he already knows but can't bring himself to say.",
+    "text.112": "There's a personal reason behind that choice of voices. Traditional stereotypes often expect men to be strong, brave protectors, while women are portrayed as more fragile and in need of protection.",
+    "text.113": "But I've never thought the line was that clear. Andy Lau even sang a song called It's Not a Crime for a Man to Cry.",
+    "text.114": "Does wearing armor and carrying a sword mean a warrior isn't afraid of dying? Does being responsible for protecting others mean he never wants to cry?",
+    "text.115": "What can someone do when they're falling apart inside, but their role, responsibilities, and everyone else's expectations demand that they keep acting strong? Like many people, I've felt that deeply as a father heading into middle age.",
+    "text.116": "So I chose a female harmony to carry the warrior's most vulnerable inner voice. Not because women are weak, but because I wanted that contrast with the traditional warrior image to reveal a real person beneath the armor, duty, and courage.",
+    "text.117": "Sometimes the people who look strongest, who always stand in front to protect everyone else, want to be protected and understood too. Sometimes all they need is a hug where they can finally let themselves cry.",
+    "text.118": "“Life just doesn't always give them that space.”",
+    "text.119": "So the warrior hides his fear inside his armor and his sadness behind a smile, leaving the person he loves with one last comfort: “I'll come back. I promise.”",
+    "text.120": "He knows it's a lie. But sometimes the truth is so cruel that he'd rather let them hold on to hope than make them feel the pain of losing him at the very moment they say goodbye. That conflict is where Royal Knights — In the Wrong Age began.",
+    "text.121": "On one side is a lie he feels forced to tell by duty and circumstance. On the other are the feelings he can't quiet: the struggle, the ache of leaving, and his deepest wishes for the person he loves.",
+    "text.122": "So even as I wrote those promises that sounded so certain and hopeful, all I could see was a warrior trying to smile while knowing he could never keep them.",
+    "text.123": "That's how I finished the lyrics, holding back tears. I wasn't trying to write a hero who feared nothing. I wanted to write an ordinary person who was terrified, but still chose to go to war.",
+    "text.124": "Because sometimes courage isn't about being unafraid. It's about being afraid and having nowhere to turn back.",
+    "text.125": "06 / ABOUT ME",
+    "text.126": "A whole world starts with one idea.",
+    "text.127": "I'm just an ordinary player who loves card games.",
+    "text.128": "From Magic: The Gathering and Yu-Gi-Oh! to Sorcery: Contested Realm, which I've really fallen for in recent years, card games have been with me since elementary school. Now I'm a father of three, and they've been part of almost every chapter of my life.",
+    "text.129": "That's probably why one thought has never quite left me:",
+    "text.130": "“What would it look like if I could design a card game of my own someday?”",
+    "text.131": "Read My Full Story ＋",
+    "text.132": "Close My Story −",
+    "text.133": "Back When We Had Our Own Shadow Duels",
+    "text.134": "I'll never forget the “Shadow Duels” my classmates and I played in fifth grade.",
+    "text.135": "We'd stand on tall chairs to duel, and the winner got to pick any card from the loser's deck and tear it up on the spot. Naturally, you had to finish with Seto Kaiba's most insufferably smug expression.",
+    "text.136": "Looking back, that rule was completely ridiculous. Ha!",
+    "text.137": "Watching a card you loved get ripped apart really hurt. But I have to admit, I still remember the sheer thrill of those duels.",
+    "text.138": "Especially when I was losing and one of my treasured cards was about to be sacrificed to our terrible rules. My brain would go into overdrive: what resources did I have left, what combos could I pull off, and how on earth could I turn this around?",
+    "text.139": "That feeling of digging for an answer and finally pulling off a comeback is probably one reason I still love card games so much.",
+    "text.140": "Growing Up Made the Dream Feel Further Away",
+    "text.141": "These days, I'm a frontend developer (I like to call myself a software engineer). Before that, I spent almost ten years in visual design, including a role leading a visual design team.",
+    "text.142": "Coding and visual design happen to be two of the skills you need to make a card game.",
+    "text.143": "On paper, it looked like I had what it took to make this dream happen.",
+    "text.144": "The problem was, I wasn't that twenty-something with endless time to spare anymore.",
+    "text.145": "I'm a dad to three kids now.",
+    "text.146": "I leave early and get home late. During the day I'm an engineer; after work, it's time for the kids and family. By the time everything is done, there's usually very little time left that's actually mine.",
+    "text.147": "Draw hundreds of card illustrations myself, then write an entire card battle engine from scratch?",
+    "text.148": "Maybe I could have pulled that off when I was single.",
+    "text.149": "But now, just thinking about the workload made it feel like this dream would have to wait until the kids had grown up and started lives of their own.",
+    "text.150": "That could be more than a decade away.",
+    "text.151": "But I Couldn't Let the Idea Go",
+    "text.152": "Even so, that urge to create never really went away.",
+    "text.153": "I really wanted to make a card game of my own.",
+    "text.154": "The art had to be something I truly loved. Not just illustrations to fill space on a card, but pieces I'd want to frame and hang in my living room, or even put on display in an exhibition.",
+    "text.155": "The battles had to feel like the card game I'd always imagined. Playing a card should feel natural, counters should reward good decisions, and the interactions and chains between cards should keep giving you something to think about.",
+    "text.156": "For resources and costs, I also wanted to move beyond the systems I already knew and try something that genuinely fit my own ideas.",
+    "text.157": "I didn't want to just copy a game that already existed.",
+    "text.158": "I wanted to pour in all the games I'd played, everything I'd learned, and every little “Wouldn't it be fun if this mechanic worked like this?” I'd collected over the years.",
+    "text.159": "Still, for someone approaching forty, working full-time and raising three kids, it could feel like a pretty unrealistic wish.",
+    "text.160": "I'd even joke that I already had one foot in the grave. Was I really going to have to wait until retirement to make this game?",
+    "text.161": "Then AI Tools Made It Feel Possible Again",
+    "text.162": "AI has been moving incredibly fast these past few years.",
+    "text.163": "Like a lot of people, I was curious at first, but also a little skeptical.",
+    "text.164": "It wasn't until my company started bringing AI tools into our work that I began to understand how much they could actually help.",
+    "text.165": "They don't necessarily replace creativity or judgment, but they can make it a lot easier to turn an idea into something real.",
+    "text.166": "And that little universe of card-game ideas, quiet in the back of my mind for so long, started coming together again.",
+    "text.167": "I began to wonder:",
+    "text.168": "“If I don't have to do absolutely everything alone, and I can use AI as a tool, could this dream finally be within reach?”",
+    "text.169": "So I started experimenting in every spare moment I could find.",
+    "text.170": "Walking to the station each morning, I'd think through card rules and problems the combat logic might run into.",
+    "text.171": "Once I was on the train, I'd connect remotely and ask AI to build a rough feature or put together a minimum viable prototype to try out an idea.",
+    "text.172": "Sometimes I'd use a few minutes on a bathroom break at work to add test conditions or adjust what I wanted to check.",
+    "text.173": "At lunch, I'd look over what AI had produced and see whether the logic matched what I had in mind.",
+    "text.174": "If it didn't, I'd rethink it, revise the requirements, and go through another round.",
+    "text.175": "Day after day, I kept repeating that process.",
+    "text.176": "There were no long, uninterrupted development sessions, and no studio where I could spend entire days creating.",
+    "text.177": "Just commutes, lunch breaks, and all the little gaps in everyday life.",
+    "text.178": "At night, after the kids were asleep and I was getting ready to turn in myself, I'd still find myself looking through the artwork I'd loved for years.",
+    "text.179": "Composition, light, color, atmosphere: I kept searching for the visual style that felt right for this game.",
+    "text.180": "I don't know how far this will go.",
+    "text.181": "But at least this time, I'm not just imagining that I'll make a card game someday. I've actually started.",
+    "text.182": "One Last Thing About AI",
+    "text.183": "I know some people don't like AI being involved in creative work, and some want nothing to do with AI-generated art or media.",
+    "text.184": "I understand that. I used to feel that way too.",
+    "text.185": "But as I spent more time using AI in my work and creative projects, I came to a conclusion of my own:",
+    "text.186": "“AI can do a lot of jobs for us. But getting something done and doing it well are two different things.”",
+    "text.187": "Here's something that happened at work.",
+    "text.188": "I ran into a very simple logic issue in some code. I figured it couldn't be that hard; I just didn't feel like digging around for the right parameter. So I handed it to AI and used the time to think about other, more important projects.",
+    "text.189": "When I came back to check the result, I couldn't believe what I was seeing.",
+    "text.190": "It had added over a hundred lines of code to solve this tiny problem!",
+    "text.191": "The funny thing was, the code wasn't wrong.",
+    "text.192": "AI had solved the problem. The feature worked.",
+    "text.193": "But after reading it, I deleted all those extra lines, went back to the original logic, and changed the trigger condition for a single existing parameter. Problem solved.",
+    "text.194": "It took me a few seconds.",
+    "text.195": "That really stuck with me.",
+    "text.196": "It wasn't that AI couldn't solve the problem. It had just taken a much more complicated route than it needed to.",
+    "text.197": "It did what I'd asked, but it hadn't found what I considered the best solution.",
+    "text.198": "Of course, maybe I hadn't explained the task clearly enough. If I'd told it to check the existing logic first and avoid adding unnecessary code, things might have turned out very differently.",
+    "text.199": "But that's exactly my point.",
+    "text.200": "AI's abilities matter. So do the experience and judgment of the person using it, and their ability to ask the right questions.",
+    "text.201": "So can AI replace people?",
+    "text.202": "I think it can.",
+    "text.203": "It can already do plenty of things that used to require a person to handle them directly. As the technology improves, that list will only grow.",
+    "text.204": "But I've also come to realize that being able to build something doesn't mean knowing why it should be built that way. And solving a problem doesn't always mean choosing the solution that fits best.",
+    "text.205": "That's where experience, creativity, and judgment really matter.",
+    "text.206": "Which brings me back to this card game.",
+    "text.207": "I won't pretend AI hasn't played a huge part in making it. Without that help, given my work and family life, making something on this scale by myself really might have taken another decade or more.",
+    "text.208": "But I've always known what I wanted to make.",
+    "text.209": "The art style, the pace of battle, the way resources work, and the chances players should still have to turn things around when a match looks almost lost.",
+    "text.210": "Those ideas come from years of loving card games, and from constantly thinking, trying things, throwing ideas out, and reworking them throughout development.",
+    "text.211": "AI helps me turn ideas into something real. My job is to keep asking whether what's in front of me is actually the game I want to make.",
+    "text.212": "I don't think using AI automatically makes a project good. And I don't think it means the person creating it no longer has to put in the work.",
+    "text.213": "To me, it's a tool. One that has finally given me a way past the limits of my time and abilities, so I can chase a dream I've had for years.",
+    "text.214": "AI isn't the reason I wanted to make a card game.",
+    "text.215": "It's the reason I finally have a chance to make the card game I've been carrying in my heart since I was a kid.",
+    "text.216": "Back to the Top ↑",
+    "text.218": "Explore the Cards ↗",
+    "text.219": "Main navigation",
+    "text.220": "Crown Ancient Dragon card artwork",
+    "text.221": "Search card names or effects…",
+    "text.222": "Search card names or effects",
+    "text.223": "Ancient King's Spirit artwork",
+    "text.224": "Theme Song | The Forgotten Kingdom — YouTube video",
+    "text.225": "Ancient King — The Nameless Wish — YouTube video",
+    "text.226": "Royal Knights — In the Wrong Age — YouTube video",
+    "text.227": "Close card details",
+    "text.228": "Read the Full Reflection",
+    "text.229": "Collapse the Reflection",
+    "download.eyebrow": "YOUR NEXT ADVENTURE",
+    "download.title": "Play Crown Islands",
+    "download.message": "Coming soon. Stay tuned.",
+    "download.short": "Coming soon",
+    "download.close": "Got it",
+    "download.primary": "Download the Game",
+    "privacy.link": "Privacy Policy",
+    "privacy.title": "Crown Islands | Privacy Policy",
+    "privacy.heading": "Crown Islands Privacy Policy",
+    "privacy.date": "Last updated: October 19, 2026",
+    "privacy.intro": "Thanks for playing Crown Islands. Your privacy matters to us. This policy explains how the game handles your information.",
+    "privacy.1.title": "1. Personal Information",
+    "privacy.1.body": "Crown Islands doesn't require an account. It doesn't actively collect your name, email address, phone number, location, or other information that could identify you.",
+    "privacy.2.title": "2. Saved Game Data",
+    "privacy.2.body": "Your game progress, settings, campaign and chapter progress, and decks are stored on your device. The game doesn't automatically upload this data to the developer's servers.",
+    "privacy.3.title": "3. Third-Party Services",
+    "privacy.3.body": "The game doesn't include third-party advertising, user tracking, or analytics services. It doesn't sell or share players' personal information with advertisers.",
+    "privacy.4.title": "4. Internet Access",
+    "privacy.4.body": "Core gameplay doesn't need an internet connection, and the game doesn't automatically send your game data to the developer's servers.",
+    "privacy.5.title": "5. Children's Privacy",
+    "privacy.5.body": "The game doesn't actively ask children for personal information or knowingly collect their personal data.",
+    "privacy.6.title": "6. Changes to This Policy",
+    "privacy.6.body": "If the game's features or the way it handles data change, we'll update this policy and publish the changes on this page.",
+    "privacy.7.title": "7. Get in Touch",
+    "privacy.7.body": "If you have any questions about this privacy policy, you're welcome to contact the developer.",
+    "privacy.email": "Email:",
+    "privacy.site.title": "About This Website",
+    "privacy.site.local": "This website saves your language choice in your browser so it can remember your preference. You can remove it by clearing this site’s browser data. The website has no account registration or developer-added analytics.",
+    "privacy.site.video": "The website embeds YouTube videos using privacy-enhanced mode. Loading or playing those videos connects to YouTube, whose data handling is covered by Google’s privacy policy. This is separate from the game’s offline gameplay.",
+    "privacy.site.host": "When this website is hosted on GitHub Pages, GitHub may process technical request information, such as your IP address, to provide and protect its hosting service. See GitHub’s privacy statement for details.",
+    "privacy.google": "Google Privacy Policy",
+    "privacy.github": "GitHub Privacy Statement",
+    "privacy.back": "← Back to the Game",
+    "credits.title": "Platform logos & credits",
+    "credits.apple": "App Store is a trademark of Apple Inc.",
+    "credits.android": "Android is a trademark of Google LLC. The Android robot is reproduced or modified from work created and shared by Google and used according to terms described in the Creative Commons 3.0 Attribution License.",
+    "credits.steam": "Steam and the Steam logo are trademarks and/or registered trademarks of Valve Corporation in the U.S. and/or other countries.",
+    "credits.license": "CC BY 3.0"
+  },
+  "ui": {
+    "cardCount": "Cards: {total} · Showing {shown}",
+    "viewCard": "View {name}",
+    "empty": "No cards match. Try another name or effect.",
+    "webArt": "{name} — web artwork",
+    "openArt": "View Web Artwork ↗",
+    "pendingArt": "Artwork coming soon",
+    "archive": "CARD ARCHIVE",
+    "cost": "Cost {value}",
+    "sacrifice": "Sacrifice: {value} CP",
+    "stats": "Attack {attack} / Defense {defense}",
+    "nonUnit": "Non-unit card",
+    "limit": "Up to {value} per deck",
+    "playError": "Couldn't play this track. Please try again using the player.",
+    "playing": "Now playing · {name}",
+    "paused": "Playback paused",
+    "ready": "Choose a track to start listening",
+    "language": "Language",
+    "logo": "Crown Islands",
+    "localeError": "Could not load this language. Please try again.",
+    "loadError": "Could not load card data. Please reload the page."
+  },
+  "types": {
+    "monster": "Unit",
+    "spell": "Spell",
+    "equipment": "Equipment",
+    "trap": "Trap",
+    "counter": "Counter",
+    "terrain": "Terrain"
+  },
+  "rarity": {
+    "C": "Common",
+    "U": "Uncommon",
+    "R": "Rare",
+    "L": "Legendary"
+  },
+  "cards": {
+    "001": {
+      "name": "Frontier Infantry",
+      "effect": "No additional effect.",
+      "flavor": "The kingdom's border begins with the step beneath his feet."
+    },
+    "002": {
+      "name": "Wooden Shield Recruit",
+      "effect": "[Guard].",
+      "flavor": "The first scratch on his shield arrives before his first medal."
+    },
+    "003": {
+      "name": "Longbow Scout",
+      "effect": "[Ranged].",
+      "flavor": "Before the arrow leaves the string, the escape route is clear."
+    },
+    "004": {
+      "name": "Wandering Swordsman",
+      "effect": "While you control no other units, this unit has +1 attack.",
+      "flavor": "One sword, one traveler—an army of one."
+    },
+    "005": {
+      "name": "Heavy-armored Guard",
+      "effect": "[Guard].",
+      "flavor": "As long as he stands, the gates have not fallen."
+    },
+    "006": {
+      "name": "Linebreaker Lancer",
+      "effect": "[Pierce].",
+      "flavor": "Even the thickest defense has a gap a spear can find."
+    },
+    "007": {
+      "name": "Field Medic",
+      "effect": "On entry: restore 2 life to your player.",
+      "flavor": "What he brings back to the battlefield is a reason to stand again."
+    },
+    "008": {
+      "name": "Royal Knight",
+      "effect": "Gains +1 ATK while equipped.\nOnce on each of your turns, if this unit has not attacked, you may give its equipment to another face-up allied Warrior without equipment. This unit cannot attack this turn.\nMoving equipment does not count as playing equipment from hand and does not trigger an equip event. The recipient must be able to use equipment. Returning and replaying the same card does not reset its per-turn use or attack spent.",
+      "flavor": "His oath is etched on his shield and held in his hand."
+    },
+    "009": {
+      "name": "Duel Champion",
+      "effect": "When attacking an attack-position unit, gain +1 attack for that battle.",
+      "flavor": "He waits not for applause, but for an opening."
+    },
+    "010": {
+      "name": "Silver Commander",
+      "effect": "Your other face-up defense-position units have +1 defense. On entry: you may change up to two other face-up allied attack-position units to defense position.",
+      "flavor": "Where silver armor marches, scattered troops become an army again."
+    },
+    "011": {
+      "name": "Mossback Wolf Pup",
+      "effect": "While you control another Beast, this unit has +1 attack and +1 defense.",
+      "flavor": "Moss conceals its shape, but not its new-grown fangs."
+    },
+    "012": {
+      "name": "Burrow Badger",
+      "effect": "[Steadfast].",
+      "flavor": "No storm enters the burrow it has chosen."
+    },
+    "013": {
+      "name": "Prairie Hound",
+      "effect": "While you control at least two other Beasts, this unit has +2 attack.",
+      "flavor": "The farther the prey runs, the fiercer the chase."
+    },
+    "014": {
+      "name": "Tusked Boar",
+      "effect": "While you control another Beast, this unit has +1 attack.",
+      "flavor": "It sees no roads or obstacles—only what lies ahead."
+    },
+    "015": {
+      "name": "Stonehorn Goat",
+      "effect": "Your other Beasts have +1 defense. Effects with this card's name do not stack.",
+      "flavor": "What others call a cliff, it calls a foothold."
+    },
+    "016": {
+      "name": "Jungle Panther",
+      "effect": "[Stealth]. While you control another Beast, this unit has +1 attack.",
+      "flavor": "A shadow stirs, and the night grows claws."
+    },
+    "017": {
+      "name": "Armored Greatbear",
+      "effect": "[Guard].",
+      "flavor": "Beneath the armor lies the instinct to defend its den."
+    },
+    "018": {
+      "name": "Twinhorn Bull",
+      "effect": "[Pierce].",
+      "flavor": "Sometimes the thunder of the plains comes from below."
+    },
+    "019": {
+      "name": "Moonmane Lion King",
+      "effect": "Whenever another allied unit is destroyed in battle, this unit gains 1 ATK until it leaves the field. Bonuses stack.",
+      "flavor": "Moonlight gives the solitary king his final mantle."
+    },
+    "020": {
+      "name": "Ancient Tusk Mammoth",
+      "effect": "Cannot use equipment. Gains [Sweep] while you have at least 2 other Beasts on the field.",
+      "flavor": "Its ancient body is already the strongest armor."
+    },
+    "021": {
+      "name": "Iron-shell Beetle",
+      "effect": "No additional effect.",
+      "flavor": "Even a tiny shell can hold back a long night."
+    },
+    "022": {
+      "name": "Needle Bee",
+      "effect": "[Flying].",
+      "flavor": "The buzzing is a warning. The sting is the answer."
+    },
+    "023": {
+      "name": "Birdcatcher Spider",
+      "effect": "[Guard]. Enemy Flying units cannot ignore this unit's Guard.",
+      "flavor": "Flying high does not escape a silent thread."
+    },
+    "024": {
+      "name": "Scythe-arm Mantis",
+      "effect": "When attacking a unit with cost 4 or more, gain +2 attack for that battle.",
+      "flavor": "A larger prey only makes its weaknesses clearer."
+    },
+    "025": {
+      "name": "Sandpit Antlion",
+      "effect": "After battling a non-Flying unit while in defense position, that enemy cannot attack on your opponent's next turn.\nTriggers only after combat comparison while in defense position against an attacker without Flying at that comparison. Works even if Sandpit Antlion is destroyed; canceled attacks do not trigger it. Only prevents the same surviving attacker from attacking on its controller's next turn. Position changes and active abilities remain available. Leaving and re-entering the field removes the restriction.",
+      "flavor": "The calmer the sand, the greater the danger beneath."
+    },
+    "026": {
+      "name": "Glitterwing Butterfly",
+      "effect": "[Flying]. On entry: target face-up enemy unit has -1 attack this turn.",
+      "flavor": "Its lovely dust makes blades forget their direction."
+    },
+    "027": {
+      "name": "Horned Ram Beetle",
+      "effect": "[Pierce].",
+      "flavor": "It sees no difference between deadwood and shields."
+    },
+    "028": {
+      "name": "Greatjaw Soldier Ant",
+      "effect": "While you control another unit with cost 2 or less, this unit has +1 attack.",
+      "flavor": "The footsteps of little companions make its jaws grip tighter."
+    },
+    "029": {
+      "name": "Blackwing Giant Moth",
+      "effect": "[Flying]. An enemy unit battling this unit has -1 attack for that battle.",
+      "flavor": "When black wings spread, even courage gathers dust."
+    },
+    "030": {
+      "name": "Crown Stag Beetle",
+      "effect": "While your terrain is Forest, this unit gains [Pierce].",
+      "flavor": "Above rotting wood, twin mandibles forge a crown."
+    },
+    "031": {
+      "name": "Tradewind Sparrow",
+      "effect": "[Flying]. On entry: look at the top card of your deck. You may put it on the bottom.",
+      "flavor": "The smallest wings sometimes carry the greatest news."
+    },
+    "032": {
+      "name": "Cliff Eaglet",
+      "effect": "[Flying].",
+      "flavor": "Its first flight from the nest demands faith in the wind."
+    },
+    "033": {
+      "name": "Redtail Falcon",
+      "effect": "[Flying].",
+      "flavor": "Its red tail cuts the sky before the prey hears the wind."
+    },
+    "034": {
+      "name": "Ironbeak Raven",
+      "effect": "[Flying]. When attacking an equipped unit, gain +1 attack for that battle.",
+      "flavor": "A glint of armor is its favorite target."
+    },
+    "035": {
+      "name": "Windcutter Falcon",
+      "effect": "[Flying]. While your terrain is Mountain, this unit has +1 attack.",
+      "flavor": "Mountain winds do not slow it. They sharpen it."
+    },
+    "036": {
+      "name": "Nestguard Great Owl",
+      "effect": "[Flying] [Guard]. Enemy Flying units cannot ignore this unit's Guard.",
+      "flavor": "The breathing in its nest is worth more than the whole night sky."
+    },
+    "037": {
+      "name": "Thunderfeather Eagle",
+      "effect": "Flying. While in attack position, enemy Flying units must attack this unit first.",
+      "flavor": "Even above the thunderclouds, the skies have a sovereign."
+    },
+    "038": {
+      "name": "Sky Messenger",
+      "effect": "[Flying]. On entry: you may return another allied unit with cost 2 or less that has not acted this turn to your hand.",
+      "flavor": "It brings news and shows the way home."
+    },
+    "039": {
+      "name": "Storm Griffin",
+      "effect": "[Flying] [Pierce].",
+      "flavor": "Lion's claws tear the line; eagle's wings claim the sky."
+    },
+    "040": {
+      "name": "Sunwheel Roc",
+      "effect": "[Flying]\nYour other Flying units gain +1 ATK and DEF.",
+      "flavor": "The shadow of its wings brings early night to a valley."
+    },
+    "041": {
+      "name": "Reef Crab",
+      "effect": "While your terrain is Sea, this unit has +1 defense.",
+      "flavor": "After the tide recedes, one rock still moves."
+    },
+    "042": {
+      "name": "Sprayfish",
+      "effect": "On entry: you may return another allied unit with cost 1 that has not acted this turn to your hand.",
+      "flavor": "One brief leap reveals the sea's other face."
+    },
+    "043": {
+      "name": "Spinefin Hunter",
+      "effect": "May ignore the requirement that a return-to-hand target has not acted this turn. Other targeting restrictions still apply. Does not return itself for free. Returning and summoning the same card again preserves any attack already used this turn.",
+      "flavor": "Its dorsal fin cuts through water—and hesitation."
+    },
+    "044": {
+      "name": "Giantclaw River Shrimp",
+      "effect": "On entry: you may return another allied unit that has not acted this turn to your hand. If you do, this unit has +1 defense this turn.",
+      "flavor": "These great claws decide who may cross the riverbed."
+    },
+    "045": {
+      "name": "Ink Octopus",
+      "effect": "On entry: target face-up enemy unit has -2 attack this turn.",
+      "flavor": "An unseen enemy is the hardest to strike true."
+    },
+    "046": {
+      "name": "Shellshield Turtle",
+      "effect": "[Guard].",
+      "flavor": "A thousand waves have failed to push this shield back."
+    },
+    "047": {
+      "name": "Coral Seahorse",
+      "effect": "On entry: you may return a terrain from your graveyard to your hand. If you do, return another allied unit that has not acted this turn to your hand.",
+      "flavor": "Lost sea charts hide among the branches of coral."
+    },
+    "048": {
+      "name": "Sawtooth Shark",
+      "effect": "When attacking an attack-position unit, gain +1 attack for that battle.",
+      "flavor": "Courage charging straight toward it is just to its taste."
+    },
+    "049": {
+      "name": "Deep-tide Squid",
+      "effect": "While your terrain is Sea, gain [Guard]. Once during your turn: return another allied unit that has not acted this turn to your hand; if you do, this unit has +2 defense this turn.",
+      "flavor": "Arms rising from the deep can block an entire shipping lane."
+    },
+    "050": {
+      "name": "Crown Sea Serpent",
+      "effect": "While your terrain is Sea, gain [Pierce]. On entry: you may change one face-up enemy unit in attack position to defense position.",
+      "flavor": "Where its crown of waves rises, the islands bow."
+    },
+    "051": {
+      "name": "Walking Sprout",
+      "effect": "On entry: restore 1 life to your player.",
+      "flavor": "Even across a scorched battlefield, the first new leaf will come walking."
+    },
+    "052": {
+      "name": "Spineball Cactus",
+      "effect": "When this unit is broken in battle, your opponent loses 1 life.",
+      "flavor": "Come too close and you will learn why it needs no weapon."
+    },
+    "053": {
+      "name": "Ankle Vine",
+      "effect": "[Guard].",
+      "flavor": "Before rushing ahead, check your ankles."
+    },
+    "054": {
+      "name": "Insect-eating Bloom",
+      "effect": "When battling an Insect, gain +1 attack and +1 defense for that battle.",
+      "flavor": "Sweet fragrance does not always lead to nectar."
+    },
+    "055": {
+      "name": "Herb Sprite",
+      "effect": "On entry: restore 3 life to your player.",
+      "flavor": "The forest's gentlest power flows through its leaf veins."
+    },
+    "056": {
+      "name": "Whipbranch Treant",
+      "effect": "[Ranged].",
+      "flavor": "No branch is beyond the reach of its arms."
+    },
+    "057": {
+      "name": "Ancient Thornwood",
+      "effect": "Guard. When attacked in defense position, after battle give the attacker -1 ATK until the end of its controller's next turn. No longer causes life loss when destroyed.",
+      "flavor": "Whoever breaks it always takes a few thorns away."
+    },
+    "058": {
+      "name": "Giant Sporeflower",
+      "effect": "On entry: all face-up enemy units have -1 attack this turn.",
+      "flavor": "The flower opens silently, and the will to fight drifts to sleep."
+    },
+    "059": {
+      "name": "Forest Elder",
+      "effect": "At the start of your turn, if your terrain is Forest, you may give a face-up allied Plant [Guard] until the end of your opponent's next turn.",
+      "flavor": "It remembers every path, and everyone who needs shelter."
+    },
+    "060": {
+      "name": "Worldroot Tree",
+      "effect": "[Guard]. At the start of your turn, if this unit is in defense position, restore 2 life to your player.",
+      "flavor": "Its roots bind the earth to life that refuses to fade."
+    },
+    "061": {
+      "name": "Rubble Effigy",
+      "effect": "When you send this card from the field to the graveyard as a cost to summon a Rock unit, that unit gains [Steadfast] until the end of your opponent's next turn.\nRequires the summoned Rock to already allow tribute costs. Does not grant tribute summoning to other Rocks. Hand sacrifices, battle destruction, and other graveyard moves do not trigger it. Multiple copies do not stack. A suppressed material grants no protection; a concealed material can grant it when revealed by being sent to the graveyard.",
+      "flavor": "Even gathered rubble has a will of its own."
+    },
+    "062": {
+      "name": "Rolling Boulder Beast",
+      "effect": "Must be summoned in attack position.",
+      "flavor": "Once it starts rolling, taking it slowly is not an option."
+    },
+    "063": {
+      "name": "Stone Shieldman",
+      "effect": "[Guard].",
+      "flavor": "It says nothing, yet makes its defense of the crossroads clear."
+    },
+    "064": {
+      "name": "Crystal Sentinel",
+      "effect": "On entry: enemy spells cannot target this unit until the end of your opponent's next turn.",
+      "flavor": "Light passes through crystal, but spells find nowhere to land."
+    },
+    "065": {
+      "name": "Canyon Stonefist",
+      "effect": "When summoning this unit, you may send one allied unit to the graveyard to reduce the cost by that unit's printed sacrifice value. Pay at least 1 CP.",
+      "flavor": "After years of silence, the canyon finally clenches a fist."
+    },
+    "066": {
+      "name": "Obsidian Vanguard",
+      "effect": "[Pierce]. When summoning this unit, you may send one allied unit to the graveyard to reduce the cost by that unit's printed sacrifice value. Pay at least 1 CP.",
+      "flavor": "Obsidian's point is sharper than a shadow."
+    },
+    "067": {
+      "name": "Cliffside Colossus",
+      "effect": "[Guard]. When summoning this unit, you may send one allied unit to the graveyard to reduce the cost by that unit's printed sacrifice value. Pay at least 1 CP.",
+      "flavor": "You face not a guard, but an entire cliff."
+    },
+    "068": {
+      "name": "Magnet Golem",
+      "effect": "When battling a Machine, gain +1 attack for that battle. When summoning this unit, you may send one allied unit to the graveyard to reduce the cost by its printed sacrifice value. Pay at least 1 CP.",
+      "flavor": "Every piece of iron that comes close changes its master."
+    },
+    "069": {
+      "name": "Volcanic Giant",
+      "effect": "[Bulwark]. When summoning this unit, you may send one terrain on either field to its owner’s graveyard to reduce the summon cost by its printed sacrifice points (minimum 1 CP).",
+      "flavor": "Its footsteps are the thunder forests dread most."
+    },
+    "070": {
+      "name": "Sleeping Mountain God",
+      "effect": "[Bulwark]. Must be summoned in defense position. Starting on your next turn, it may voluntarily change position under the normal rules; other card effects may change its position earlier. When summoning it, you may send up to two other units on your field to the graveyard to reduce its cost by their total printed sacrifice points (minimum 1 CP).",
+      "flavor": "Wake the mountain before asking it to move."
+    },
+    "071": {
+      "name": "Clockwork Mouse",
+      "effect": "Once during each of your turns: you may search your deck for an Equipment costing 2 or less, reveal it to your opponent, add it to your hand, then shuffle.",
+      "flavor": "Missing workshop parts often turn up in its mouth."
+    },
+    "072": {
+      "name": "Rivet Sentry",
+      "effect": "[Guard].",
+      "flavor": "Even a small rivet can fasten a promise."
+    },
+    "073": {
+      "name": "Walking Ballista",
+      "effect": "[Ranged].",
+      "flavor": "Four legs keep it steady. One bow handles the distance."
+    },
+    "074": {
+      "name": "Repair Puppet",
+      "effect": "On entry: you may return an equipment with cost 1 from your graveyard to your hand.",
+      "flavor": "Broken does not mean useless. It means its turn has come."
+    },
+    "075": {
+      "name": "Steelwheel Chariot",
+      "effect": "While your terrain is Wasteland, this unit has +1 attack.",
+      "flavor": "The rougher the wasteland, the louder its steel wheels roar."
+    },
+    "076": {
+      "name": "Drill Vanguard",
+      "effect": "[Pierce].",
+      "flavor": "To learn what lies beyond the wall, drill through it."
+    },
+    "077": {
+      "name": "Mobile Rampart",
+      "effect": "[Guard]. While equipped, this unit has +1 defense.",
+      "flavor": "For the first time, a city wall learned to march with the troops."
+    },
+    "078": {
+      "name": "Anti-air Battery",
+      "effect": "Ranged. While in attack position, enemy Flying units must attack this unit first.",
+      "flavor": "However wide the sky, a crosshair can reach it."
+    },
+    "079": {
+      "name": "Siege Engine",
+      "effect": "[Pierce]\nWhile equipped, gains +2 ATK for the battle when attacking a unit in defense position.",
+      "flavor": "It was built to answer one question: how thick are the gates?"
+    },
+    "080": {
+      "name": "Royal Iron Colossus",
+      "effect": "Your other Machines and Warriors have +1 defense. Once per turn, when an equipped allied unit is broken in battle, you may return one of its equipment cards with cost 2 or less from the graveyard to your hand.",
+      "flavor": "The royal city cast its final defense in the shape of a giant."
+    },
+    "081": {
+      "name": "Rusted Skeleton",
+      "effect": "When summoned from the graveyard, cannot attack that turn and gains +1 DEF until the end of your opponent's next turn.\nThis DEF bonus is a graveyard-summon state, not an entry trigger. Summoning without entry effects still grants it.",
+      "flavor": "The armor is broken. The orders are not yet finished."
+    },
+    "082": {
+      "name": "Gravelantern Wraith",
+      "effect": "Flying. Draw 1 card when destroyed in battle. Other ways of sending it to the graveyard do not trigger this ability.",
+      "flavor": "Its lantern lights no road. It searches for lost names."
+    },
+    "083": {
+      "name": "Graveyard Keeper",
+      "effect": "While your terrain is Ruins, gain [Guard].",
+      "flavor": "The living may pass, but may not freely disturb the sleepers."
+    },
+    "084": {
+      "name": "Carrion Ghoul",
+      "effect": "While either graveyard contains at least five unit cards, this unit has +1 attack.",
+      "flavor": "The quieter the battlefield, the more eagerly it walks."
+    },
+    "085": {
+      "name": "Shrouded Guard",
+      "effect": "Enemy traps cannot change this unit's position.",
+      "flavor": "Its stance has not changed in a thousand years."
+    },
+    "086": {
+      "name": "Vengeful Cavalry",
+      "effect": "While you have 10 life or less, this unit has +2 attack.",
+      "flavor": "The closer the end, the faster unfinished grudges pursue."
+    },
+    "087": {
+      "name": "Soul Lanternbearer",
+      "effect": "On entry: you may return a unit with cost 2 or less from your graveyard to your hand.",
+      "flavor": "A swing of the lantern shows old companions the way home."
+    },
+    "088": {
+      "name": "Headless Warrior",
+      "effect": "When this unit is broken in battle, your opponent loses 2 life.",
+      "flavor": "He never looks back, yet remembers every debt."
+    },
+    "089": {
+      "name": "Tomb Giant",
+      "effect": "While your graveyard contains at least five unit cards, this unit has +1 attack.",
+      "flavor": "Stories buried beneath the earth form its body."
+    },
+    "090": {
+      "name": "Ancient King's Spirit",
+      "effect": "On entry: you may summon up to 2 units, each costing 3 or less, from your graveyard into open slots in defense position, without paying costs or triggering entry effects. Each copy of this card may trigger this only once per turn.",
+      "flavor": "The crown has lost its shine. Its summons still receive an answer."
+    },
+    "091": {
+      "name": "Stone-egg Whelp",
+      "effect": "Starting on your next turn after this unit enters play, during your main phase you may send it to the grave; if you do, gain 3 command points.",
+      "flavor": "A crack opens in the rock. Something inside blinks."
+    },
+    "092": {
+      "name": "Spark Drake",
+      "effect": "On entry: your opponent loses 1 life.",
+      "flavor": "Its first hiccup lit the entire cave."
+    },
+    "093": {
+      "name": "Membrane Drake",
+      "effect": "[Flying]. Once during your turn: you may send this unit to the graveyard. If you do, the next Dragon you summon this turn by paying its summon cost costs 2 less, to a minimum of 1.",
+      "flavor": "Its wings are thin; its longing for the sky is not."
+    },
+    "094": {
+      "name": "Marsh Drake",
+      "effect": "While your terrain is Sea, this unit has +1 defense.",
+      "flavor": "Before the reeds stir, it has already slipped underwater."
+    },
+    "095": {
+      "name": "Redridge Land Dragon",
+      "effect": "While this is your only Dragon on the field, it has +1 attack.",
+      "flavor": "Even without wings, it makes the earth feel a dragon's might."
+    },
+    "096": {
+      "name": "Windcavern Wyvern",
+      "effect": "[Flying]. While this is your only Dragon on the field, it has +2 attack.",
+      "flavor": "The cavern's howl is the prelude to its flight."
+    },
+    "097": {
+      "name": "Ironjaw Tyrant",
+      "effect": "[Pierce]. While this is your only Dragon on the field, it has +2 attack.",
+      "flavor": "Its steel-like jaws accept no obstruction."
+    },
+    "098": {
+      "name": "Cloudcrest White Dragon",
+      "effect": "[Flying] [Sweep]. If this is the only Dragon on your field, it gains +2 ATK.",
+      "flavor": "Above the white clouds spreads an even brighter wing."
+    },
+    "099": {
+      "name": "Furnace Red Dragon",
+      "effect": "On entry: you may send one enemy equipment to the graveyard. While this is your only Dragon on the field, it has +2 attack.",
+      "flavor": "Before approaching, ask how much heat your armor can bear."
+    },
+    "100": {
+      "name": "Crown Ancient Dragon",
+      "effect": "[Flying] [Pierce] [Sweep]. If this is the only Dragon on your field, it gains +2 ATK.",
+      "flavor": "It needs no coronation. The mountains already know their king."
+    },
+    "101": {
+      "name": "War Cry",
+      "effect": "Target face-up allied unit has +2 attack this turn.",
+      "flavor": "Shout out your fear. Leave your strength upon the blade."
+    },
+    "102": {
+      "name": "Shield Formation",
+      "effect": "Target face-up allied unit has +3 defense this turn.",
+      "flavor": "When shields meet, a retreat becomes a line."
+    },
+    "103": {
+      "name": "Surge Forward",
+      "effect": "Target face-up allied unit has +1 attack and gains [Pierce] this turn.",
+      "flavor": "One more step forward leaves the obstacle behind."
+    },
+    "104": {
+      "name": "Ride the Wind",
+      "effect": "Target face-up allied unit gains [Flying] this turn.",
+      "flavor": "Borrow the wind's shoulder to cross the wall before you."
+    },
+    "105": {
+      "name": "Precise Aim",
+      "effect": "Target face-up allied unit gains [Ranged] this turn. Its attack is unchanged.",
+      "flavor": "Take a deep breath until the world has only one point of impact."
+    },
+    "106": {
+      "name": "Armor Break",
+      "effect": "Target face-up enemy unit has -2 defense this turn.",
+      "flavor": "Strike the right spot and even thick armor cracks."
+    },
+    "107": {
+      "name": "Taunt",
+      "effect": "Change one face-up enemy defense-position unit to attack position.",
+      "flavor": "The easiest foe to lure from behind a shield is an angry one."
+    },
+    "108": {
+      "name": "Suppress",
+      "effect": "Change one face-up enemy attack-position unit to defense position.",
+      "flavor": "Make the opponent think about standing steady before advancing."
+    },
+    "109": {
+      "name": "Reform the Line",
+      "effect": "Choose up to two face-up allied units and change each one's position once.",
+      "flavor": "A change of position can change the whole battle."
+    },
+    "110": {
+      "name": "All or Nothing",
+      "effect": "Target face-up allied unit has +3 attack this turn. At the end of the turn, send it to the graveyard if it is still on the field.",
+      "flavor": "Stake every possibility on this one strike."
+    },
+    "111": {
+      "name": "Forestfire",
+      "effect": "Choose one: send a Forest terrain on the field to the graveyard; or give one face-up enemy unit -2 defense this turn.",
+      "flavor": "A moment of light consumes the years the trees remember."
+    },
+    "112": {
+      "name": "Chain Lightning",
+      "effect": "Target face-up enemy unit has -2 attack and -2 defense this turn. If your terrain is Sea, you may choose a different face-up enemy unit to give -1 attack and -1 defense this turn.",
+      "flavor": "The water connects more than two reflections."
+    },
+    "113": {
+      "name": "Dust Cloud",
+      "effect": "Target face-up enemy unit has -1 attack and loses [Ranged] this turn.",
+      "flavor": "Without a view of the distance, even the finest arrow must wait."
+    },
+    "114": {
+      "name": "Headwind",
+      "effect": "All enemy Flying units have -1 attack this turn.",
+      "flavor": "Suddenly, the sky decides to stop helping them."
+    },
+    "115": {
+      "name": "Fissure",
+      "effect": "Destroy one face-up enemy unit with cost 3 or less that does not have [Flying].",
+      "flavor": "Even the most reliable ground can suddenly part."
+    },
+    "116": {
+      "name": "Entangling Vines",
+      "effect": "Change one face-up enemy unit in attack position to defense position. Until the end of its controller’s next turn, that unit cannot manually change position.",
+      "flavor": "Fold your wings. The forest still has something to say."
+    },
+    "117": {
+      "name": "Shatter the Foundations",
+      "effect": "Send one enemy terrain to the graveyard.",
+      "flavor": "Even the grandest battlefield rests upon a foundation."
+    },
+    "118": {
+      "name": "Redraw the Battlefield",
+      "effect": "Return your terrain to your hand. If you do, the next terrain you play this turn costs 1 less, to a minimum of 1.",
+      "flavor": "Familiar ground still has another use."
+    },
+    "119": {
+      "name": "Terrain Reconnaissance",
+      "effect": "Look at the top four cards of your deck. Add one terrain to your hand, then put the rest on the bottom in any order.",
+      "flavor": "Understand the land before deciding where to fight."
+    },
+    "120": {
+      "name": "Road Home",
+      "effect": "Return one terrain from your graveyard to your hand.",
+      "flavor": "A road once traveled need not be traveled only once."
+    },
+    "121": {
+      "name": "Disarm",
+      "effect": "Send one equipment on the field to the graveyard.",
+      "flavor": "However tightly you grip, there comes a time to let go."
+    },
+    "122": {
+      "name": "Clear the Ambush",
+      "effect": "Choose one enemy set trap and send it to the graveyard.",
+      "flavor": "Once danger is seen, half its power is gone."
+    },
+    "123": {
+      "name": "Tidal Pushback",
+      "effect": "Return one face-up enemy unit with cost 4 or less to its owner's hand.",
+      "flavor": "The tide need not defeat you. It only needs to carry you away."
+    },
+    "124": {
+      "name": "Bind the Behemoth",
+      "effect": "Target face-up enemy unit with cost 5 or more cannot attack during its controller's next turn.",
+      "flavor": "The stronger the prey, the more chains it deserves."
+    },
+    "125": {
+      "name": "Dispel",
+      "effect": "Target face-up enemy unit loses its printed abilities until the end of this turn. Equipment and terrain effects still apply.",
+      "flavor": "Strip away the miracle, and only the body remains."
+    },
+    "126": {
+      "name": "Decoy Maneuver",
+      "effect": "Target face-up enemy unit loses [Guard] and has -1 defense this turn.",
+      "flavor": "When the gatekeeper moves, a path appears."
+    },
+    "127": {
+      "name": "Melt",
+      "effect": "Send one equipment to the graveyard. Its former host has -1 defense this turn.",
+      "flavor": "Metal remembers that it once flowed."
+    },
+    "128": {
+      "name": "Battering Ram",
+      "effect": "Destroy one face-up enemy unit in defense position with current defense 6 or higher.",
+      "flavor": "This weight was made for the thickest wall."
+    },
+    "129": {
+      "name": "Banish Remains",
+      "effect": "Exile up to two cards from your opponent's graveyard.",
+      "flavor": "Some stories must truly end here."
+    },
+    "130": {
+      "name": "Duel Challenge",
+      "effect": "When an enemy unit declares a cooperative attack: remove all assistants from that attack. The lead attacker continues; the assistants remain on the field but still spend their attack opportunities for this turn.",
+      "flavor": "If you challenge me, step forward alone."
+    },
+    "131": {
+      "name": "Pack Supplies",
+      "effect": "Draw two cards, then discard one card from your hand.",
+      "flavor": "The road is long. Leave some room in your pack."
+    },
+    "132": {
+      "name": "Deep Exploration",
+      "effect": "Draw two cards. You may cast only one card with this name per turn.",
+      "flavor": "Beyond one more doorway, fortune may change."
+    },
+    "133": {
+      "name": "Rummage for Relics",
+      "effect": "Return one equipment with cost 2 or less from your graveyard to your hand.",
+      "flavor": "Beneath the rust waits a blade with work left to do."
+    },
+    "134": {
+      "name": "Comrade's Return",
+      "effect": "Return one unit with cost 3 or less from your graveyard to your hand.",
+      "flavor": "This time, I will wait for you to return."
+    },
+    "135": {
+      "name": "Call of the Behemoth",
+      "effect": "Look at the top five cards of your deck. You may add one unit with cost 5 or more to your hand, then put the rest on the bottom in any order.",
+      "flavor": "Sometimes a horn's echo returns with footsteps."
+    },
+    "136": {
+      "name": "Healing Potion",
+      "effect": "Restore 3 life to your player.",
+      "flavor": "A small sip of warmth carries you a little farther."
+    },
+    "137": {
+      "name": "Emergency Aid",
+      "effect": "Restore 5 life to your player, or 7 if your current life is no more than half your starting life.",
+      "flavor": "In the direst moment, the hands must not tremble."
+    },
+    "138": {
+      "name": "Tactical Retreat",
+      "effect": "Return one face-up allied unit to your hand.",
+      "flavor": "Return alive, and you can choose when to strike again."
+    },
+    "139": {
+      "name": "Reopen the Grave",
+      "effect": "This turn, you may summon one unit with cost 4 or less from your graveyard, paying its cost. It enters in defense position without triggering its entry effect. Once per turn.",
+      "flavor": "The gate opens once more, but the returning feet must find their footing."
+    },
+    "140": {
+      "name": "Last Supplies",
+      "effect": "If your hand is empty after casting this card, draw two cards; otherwise, draw one. You may cast only one card with this name per turn.",
+      "flavor": "At the bottom of the crate lies exactly the hope this moment needs."
+    },
+    "141": {
+      "name": "Iron Sword",
+      "effect": "Equipped unit has +1 attack.",
+      "flavor": "No legendary name—just a reliable edge."
+    },
+    "142": {
+      "name": "Tower Shield",
+      "effect": "Equipped unit has +2 defense.",
+      "flavor": "Carry a gate before you, and you can hold a road."
+    },
+    "143": {
+      "name": "Battle Axe",
+      "effect": "Equipped unit has +2 attack and -1 defense.",
+      "flavor": "A heavier blade demands a more decisive swing."
+    },
+    "144": {
+      "name": "Knight's Lance",
+      "effect": "Equipped unit has +1 attack and gains [Pierce].",
+      "flavor": "Where its point reaches, the line is no longer whole."
+    },
+    "145": {
+      "name": "Longbow",
+      "effect": "Equipped unit gains [Ranged].",
+      "flavor": "Trust strength to the string and choice to the distance."
+    },
+    "146": {
+      "name": "Glider Wings",
+      "effect": "Equipped unit gains [Flying].",
+      "flavor": "Even without growing wings, one can learn to use the wind."
+    },
+    "147": {
+      "name": "Heavy Armor",
+      "effect": "Equipped unit has +3 defense, loses [Flying], and cannot gain [Flying].",
+      "flavor": "Every measure of protection has its weight."
+    },
+    "148": {
+      "name": "Guard's Badge",
+      "effect": "Equipped unit has +1 defense and gains [Guard].",
+      "flavor": "Wear it, and stand before your companions."
+    },
+    "149": {
+      "name": "Shieldbreaker Hammer",
+      "effect": "When the equipped unit attacks a defense-position unit, it gains +2 attack for that battle.",
+      "flavor": "A shield's confidence cannot withstand repeated blows to one point."
+    },
+    "150": {
+      "name": "Skyhunter Crossbow",
+      "effect": "Equipped unit gains [Ranged]. When it attacks a Flying unit, it gains +1 attack for that battle.",
+      "flavor": "Look up. Even the sky has paths worth aiming at."
+    },
+    "151": {
+      "name": "Spiked Armor",
+      "effect": "Equipped unit has +1 defense. When it is broken in battle, your opponent loses 1 life.",
+      "flavor": "Even shattered armor remembers how to strike back."
+    },
+    "152": {
+      "name": "Traveler's Cloak",
+      "effect": "Enemy spells cannot target the equipped unit.",
+      "flavor": "Dust blurs the outline—and the spellcaster's sight."
+    },
+    "153": {
+      "name": "Purifying Charm",
+      "effect": "Enemy traps cannot reduce the equipped unit's attack or defense.",
+      "flavor": "Keep malice outside the skin."
+    },
+    "154": {
+      "name": "Mountain Warboots",
+      "effect": "Equipped unit has +1 defense. While your terrain is Mountain, it also has +1 attack.",
+      "flavor": "A firm grip on stone gives strength for one more step."
+    },
+    "155": {
+      "name": "Diving Scalemail",
+      "effect": "Equipped unit has +1 defense. While your terrain is Sea, it also has +1 attack.",
+      "flavor": "Resist like scales, and flow with the water like scales."
+    },
+    "156": {
+      "name": "Forest Cloak",
+      "effect": "Equipped unit has +1 defense. While your terrain is Forest, it also has +1 attack.",
+      "flavor": "Wear the trees' shadows, and become part of the forest."
+    },
+    "157": {
+      "name": "Wasteland Goggles",
+      "effect": "Equipped unit has +1 attack. While your terrain is Wasteland, it also has +1 defense.",
+      "flavor": "When sand cannot blind you, the wilds lose an obstacle."
+    },
+    "158": {
+      "name": "Ancient King's Signet",
+      "effect": "Equipped unit has +1 defense. While your terrain is Ruins, it also has +1 attack.",
+      "flavor": "The lost royal seal still wakes memories within stone walls."
+    },
+    "159": {
+      "name": "Vampiric Dagger",
+      "effect": "After the equipped unit completes an attack and breaks an enemy unit, restore 2 life to your player if the equipped unit is still on the field.",
+      "flavor": "Each victory preserves another breath for its wielder."
+    },
+    "160": {
+      "name": "Decisive Greatsword",
+      "effect": "Equipped unit has +3 attack and +1 defense, but cannot attack players directly.",
+      "flavor": "It seeks an opponent worthy of its weight."
+    },
+    "161": {
+      "name": "Tripwire",
+      "effect": "When an enemy non-Flying unit declares an attack: cancel that attack.",
+      "flavor": "One missed step turns a charge into a stumble."
+    },
+    "162": {
+      "name": "Spiderweb",
+      "effect": "When an enemy Flying unit declares an attack: cancel that attack. That unit loses [Flying] this turn.",
+      "flavor": "An unseen thread can catch an entire wing."
+    },
+    "163": {
+      "name": "Shield Block",
+      "effect": "When an allied defense-position unit becomes an attack target: it gains +3 defense for that battle.",
+      "flavor": "Raise the shield an inch and save one more tomorrow."
+    },
+    "164": {
+      "name": "Ambush Thrust",
+      "effect": "When an allied attack-position unit becomes an attack target: it gains +2 attack for that battle.",
+      "flavor": "The real spearpoint waits in the second shadow."
+    },
+    "165": {
+      "name": "Mist",
+      "effect": "When an enemy declares a direct attack: cancel that attack.",
+      "flavor": "When the target vanishes, the assault loses its direction."
+    },
+    "166": {
+      "name": "Broken Bridge",
+      "effect": "When an enemy unit with cost 5 or more declares an attack: cancel that attack and change that unit to defense position.",
+      "flavor": "Huge footsteps do not guarantee a wide enough road."
+    },
+    "167": {
+      "name": "Rockfall",
+      "effect": "When an enemy non-Flying unit declares an attack: it has -2 attack this turn.",
+      "flavor": "When the slope gives way, even bravery slows down."
+    },
+    "168": {
+      "name": "Reflecting Shield",
+      "effect": "When the equipped unit is destroyed in battle while in defense position: deal damage to your opponent equal to the amount by which the attack value of that battle exceeded this unit’s defense value.",
+      "flavor": "It remembers every ounce of force you invest."
+    },
+    "169": {
+      "name": "Empty Fort Stratagem",
+      "effect": "When an allied unit becomes an attack target: return that target to your hand and cancel the attack.",
+      "flavor": "Leave a shadow to meet the enemy while the true figure departs."
+    },
+    "170": {
+      "name": "Guard's Substitute",
+      "effect": "When an allied unit becomes an attack target: change the target to a different legal face-up allied unit, ignoring [Guard] restrictions.",
+      "flavor": "I will take this blow."
+    },
+    "171": {
+      "name": "Shallow Pit",
+      "effect": "After an enemy unit with cost 2 or less finishes resolving its entry effect: destroy that unit.",
+      "flavor": "A wrong first step can end even the shortest journey."
+    },
+    "172": {
+      "name": "Behemoth Pitfall",
+      "effect": "After a face-up enemy unit with cost 5 or more finishes resolving its entry effect, if it is in attack position: change it to defense position. It cannot attack this turn.",
+      "flavor": "A welcome prepared for a giant is buried especially deep."
+    },
+    "173": {
+      "name": "Warning Horn",
+      "effect": "After an enemy unit is summoned and its entry effect resolves: you may change one face-up allied attack-position unit to defense position. It has +1 defense this turn.",
+      "flavor": "When the horn sounds, it is time to raise your shield."
+    },
+    "174": {
+      "name": "Sabotage Spike",
+      "effect": "After an enemy equips a unit: send that newly attached equipment to the graveyard.",
+      "flavor": "A new weapon's greatest oversight is the spike at its feet."
+    },
+    "175": {
+      "name": "Foundation Demolition",
+      "effect": "When an enemy plays a terrain: send that terrain to the graveyard.",
+      "flavor": "A new advantage sometimes lasts only until a muffled blast."
+    },
+    "176": {
+      "name": "False Intelligence",
+      "effect": "When your opponent activates a trap: play this card from your hand and pay its command cost before resolution to negate that trap effect. Each player may activate only one card with this name per turn.",
+      "flavor": "What the enemy believes need not be the truth."
+    },
+    "177": {
+      "name": "Tomb Seal",
+      "effect": "After your opponent adds cards from the graveyard to their hand: look at those cards and exile one of them.",
+      "flavor": "The seal is no decoration. It is the final boundary."
+    },
+    "178": {
+      "name": "Equipment Insurance",
+      "effect": "After allied equipment is sent to the graveyard by an enemy card effect or because its equipped unit was destroyed in battle: you may return that equipment to your hand. Each player may activate only one card with this name per turn.",
+      "flavor": "Gather enough fragments, and another chance remains."
+    },
+    "179": {
+      "name": "Mutual Doom",
+      "effect": "After an allied unit is broken in battle: if the enemy unit that battled it is still on the field, destroy that enemy unit.",
+      "flavor": "One last grudge catches the victor's stride."
+    },
+    "180": {
+      "name": "Comrade's Will",
+      "effect": "After an allied unit is broken in battle: another face-up allied unit has +2 attack this turn.",
+      "flavor": "The fallen pass their unfinished strike to a companion."
+    },
+    "181": {
+      "name": "Emergency Supply Crate",
+      "effect": "After an allied unit is broken in battle: draw two cards, then discard one. Each player may activate only one card with this name per turn.",
+      "flavor": "Even in the most chaotic corner, someone left spare hope."
+    },
+    "182": {
+      "name": "Last Line of Defense",
+      "effect": "When an enemy declares a direct attack while your life is no more than half your starting life: cancel that attack. Each later direct attack against you this turn deals 2 less damage, to a minimum of 0.",
+      "flavor": "A line held by one is still a line."
+    },
+    "183": {
+      "name": "Counterattack Signal",
+      "effect": "After an allied unit is broken in battle: change another face-up allied attack-position unit to defense position. It has +2 defense this turn.",
+      "flavor": "Find your footing first, and the counterstrike will find its mark."
+    },
+    "184": {
+      "name": "Blood Debt",
+      "effect": "After you take battle damage and survive: your opponent loses 2 life. This can also trigger when you take battle damage during Life Flame protection.",
+      "flavor": "Every price paid is entered in someone's ledger."
+    },
+    "185": {
+      "name": "Path of Survival",
+      "effect": "After an allied unit is broken in battle: return it from the graveyard to your hand. Each player may activate only one card with this name per turn.",
+      "flavor": "Come back. There will be a place for you next time."
+    },
+    "186": {
+      "name": "Ancient Forest (Forest)",
+      "effect": "Your Plants, Beasts, and Insects have +1 attack.",
+      "flavor": "The ancient trees are silent, but their branches guide the hunters."
+    },
+    "187": {
+      "name": "Overgrown Rainforest (Forest)",
+      "effect": "Your Plants and Insects have +1 defense.",
+      "flavor": "Layers of green narrow every entrance."
+    },
+    "188": {
+      "name": "Woodland Camp (Forest)",
+      "effect": "Your units with cost 2 or less have +1 attack.",
+      "flavor": "The fire is small, yet enough to restore fellow travelers."
+    },
+    "189": {
+      "name": "Azure Coast (Sea)",
+      "effect": "Your Aquatic units have +1 attack.",
+      "flavor": "As the tide rises, the sea's hunters find their stage."
+    },
+    "190": {
+      "name": "Coral Shoals (Sea)",
+      "effect": "Your Aquatic and Rock units have +1 defense.",
+      "flavor": "The shoals seem gentle. The reefs rarely yield."
+    },
+    "191": {
+      "name": "Shipwreck Harbor (Sea)",
+      "effect": "Your Undead and Machines have +1 attack.",
+      "flavor": "Within sunken hulls, gears and memories wake together."
+    },
+    "192": {
+      "name": "Windhowl Peak (Mountain)",
+      "effect": "Your Birds and Dragons have +1 attack.",
+      "flavor": "The nearer the summit, the more the wind feels like an ally."
+    },
+    "193": {
+      "name": "Cliff Fortress (Mountain)",
+      "effect": "Your units with [Guard] have +1 defense.",
+      "flavor": "The cliff saves the walls from half their enemies."
+    },
+    "194": {
+      "name": "Ore-vein Pass (Mountain)",
+      "effect": "Your Rocks and Machines have +1 attack.",
+      "flavor": "Veins within the mountain still await new forms."
+    },
+    "195": {
+      "name": "Red-earth Wilds (Wasteland)",
+      "effect": "Your Beasts and Dragons have +1 attack.",
+      "flavor": "The broad red earth has room for the fiercest charge."
+    },
+    "196": {
+      "name": "Steel-sand Plains (Wasteland)",
+      "effect": "Your Machines and Warriors have +1 defense.",
+      "flavor": "Iron sand scours armor and teaches it to withstand storms."
+    },
+    "197": {
+      "name": "Weathered Basin (Wasteland)",
+      "effect": "Your unequipped units have +1 defense.",
+      "flavor": "Land worn by time favors travelers who carry little."
+    },
+    "198": {
+      "name": "Ancient King's Mausoleum (Ruins)",
+      "effect": "Your Undead have +1 attack and +1 defense.",
+      "flavor": "The stone gates are shut. The old orders still echo."
+    },
+    "199": {
+      "name": "Ruined Arena (Ruins)",
+      "effect": "Your Warriors and Beasts have +1 attack.",
+      "flavor": "The stands are empty, but the sand remembers every charge."
+    },
+    "200": {
+      "name": "Nameless Temple (Ruins)",
+      "effect": "Your Undead with original attack 3 or less have +1 defense. Once during your turn, you may send one allied Undead to the graveyard to restore 2 life to your player.",
+      "flavor": "No one remembers whom it honors. Its shelter never ceased."
+    },
+    "201": {
+      "name": "Deathbound Skeleton",
+      "effect": "[Death Match]\nWhen attacking a unit in attack position, equal ATK destroys both units. Does not apply to Sweep.\nCompare final battle ATK. Assists count; Sweep is excluded. A tie causes no difference damage. Mutual destruction takes priority over Ranged protection.",
+      "flavor": "Death cannot claim him, but it can claim his foe."
+    },
+    "202": {
+      "name": "Stand Together",
+      "effect": "When an allied unit in defense position is attacked, choose up to 2 other face-up units in defense position to defend together. Add their DEF. If the defense is broken, all participating units are destroyed.\nOne group per attack, defending the original allied defense-position target. Helpers must be face-up, in defense position, not trap-immune, and not other targets of the same Sweep. Recheck presence and position at combat. Retargeting invalidates the group. Helpers contribute current DEF and share battle destruction, but are not attack targets and do not trigger being-attacked abilities. Battle-death abilities still trigger. Pierce and difference damage use combined DEF.",
+      "flavor": "Where branches intertwine, none face the storm alone."
+    },
+    "203": {
+      "name": "Peak Falcon Chick",
+      "effect": "[Flying]\nA basic low-cost Flying attacker.",
+      "flavor": ""
+    },
+    "204": {
+      "name": "Rocknest Eaglet",
+      "effect": "[Flying]\nA low-cost Flying defender. Does not have Guard or force enemies to attack it.",
+      "flavor": ""
+    },
+    "205": {
+      "name": "Peakwatch Falcon",
+      "effect": "[Flying]\nA basic mid-cost Flying unit without extra conditions.",
+      "flavor": ""
+    },
+    "206": {
+      "name": "Cloudstep Guidehawk",
+      "effect": "[Flying]\nWhen summoned, your next unit summon this turn costs 1 CP less, to a minimum of 1. Once per turn for each copy of this card.\nThe same card can grant this discount only once per turn, even after returning to hand. Only a paid unit summon consumes it; free revivals do not. Summoning without entry effects does not grant a discount.",
+      "flavor": ""
+    },
+    "207": {
+      "name": "Oathbound Peak Eagle",
+      "effect": "[Flying] [Guard] [Restraint]\nCan only be summoned in defense position.\nMay be summoned in concealed defense. Restraint unlocks after combat comparison as the actual defender. Canceled attacks, declarations alone, and joint-defense assists do not count. Card effects can force a position change. Normal action limits still apply; re-entry resets Restraint.",
+      "flavor": ""
+    },
+    "208": {
+      "name": "Tidefang Shark Pup",
+      "effect": "No special effect.\nA basic low-cost Aquatic attacker with no terrain or return-to-hand requirement.",
+      "flavor": ""
+    },
+    "209": {
+      "name": "Returning-Tide Jellyfish",
+      "effect": "[Agile]\nWhen summoned, you may give another face-up allied Aquatic unit +1 DEF until the end of your opponent's next turn. Once per turn for each copy of this card.\nCannot choose itself or a face-down unit. The same card may use the targeted entry bonus only once per turn; returning to hand does not reset it. Agile does not return this unit by itself or restore an attack already spent this turn.",
+      "flavor": ""
+    },
+    "210": {
+      "name": "Tidal Escort",
+      "effect": "When a face-up allied Aquatic unit is attacked, return it to your hand and cancel the attack. Your next Aquatic summon before the end of your next turn costs 1 CP less, to a minimum of 1. You can play only one Tidal Escort per turn.\nPay from hand in response to an attack. One card with this name per turn, with no refund if negated. The original target must still be the same unit on the field and return successfully before the attack is canceled and the discount is granted. May return an Aquatic unit that has acted. Only a paid Aquatic summon consumes the discount; free revivals do not.",
+      "flavor": ""
+    },
+    "211": {
+      "name": "Lance-Bearing Squire",
+      "effect": "When summoned, you may choose another face-up allied unit. It gains [Pierce] for its next attack this turn.\nThis is not equipment, creates no card, uses no equipment slot, and has no race restriction. Cannot choose itself or a face-down unit. Used on the next attack declared as the main attacker, even if canceled. Sweep counts as one attack and Pierce applies to each target. Assisting does not use the effect. Expires at turn end or on leaving the field. Multiple Squires do not grant extra uses, and existing Pierce does not deal extra damage.",
+      "flavor": ""
+    },
+    "212": {
+      "name": "Royal Archery Instructor",
+      "effect": "[Ranged] [Intercept Flying]\nRanged: when attacking, an unfavorable stat comparison does not destroy this unit or deal difference damage to its controller. Intercept Flying: while in attack position, enemy Flying units must attack it first. Ranged does not protect it from battle destruction when it is attacked. Ground units are not restricted by Intercept Flying.",
+      "flavor": ""
+    },
+    "213": {
+      "name": "Astral Disorientation",
+      "effect": "When an enemy Aquatic, Bird, or Flying unit attacks, send it to the graveyard and cancel the attack.\nThe attacker must be Aquatic, a Bird, or currently have Flying when activated. Any one condition is sufficient. Birds remain eligible after losing Flying; other races become eligible when they gain Flying.Pay 5 CP to set; activation is free from the next turn. Eligibility is checked on activation. Resolution binds the original attacker and its incarnation; later Flying changes do not change eligibility. Sending directly to the graveyard is not battle destruction. Respects Bulwark trap immunity. Cancel only after a successful move; remaining Sweep attacks are also canceled.",
+      "flavor": "Before the stars had names, the sky had no direction."
+    },
+    "214": {
+      "name": "Avici Abyss",
+      "effect": "When an enemy unit that is neither Aquatic nor a Bird and has no Flying attacks, send it to the graveyard and cancel the attack.\nA ground unit here is neither Aquatic nor a Bird and currently has no Flying. A unit with multiple races is excluded if any race is Aquatic or Bird. Other races are excluded while they have Flying.Pay 5 CP to set; activation is free from the next turn. Eligibility is checked on activation. Resolution binds the original attacker and its incarnation; later Flying changes do not change eligibility. Sending directly to the graveyard is not battle destruction. Respects Bulwark trap immunity. Cancel only after a successful move; remaining Sweep attacks are also canceled.",
+      "flavor": "Before the earth learned to bear life, the abyss was already waiting."
+    },
+    "215": {
+      "name": "Shelter of the Returning Tide",
+      "effect": "When an allied unit would be sent from the battlefield to the graveyard, return it to your hand instead. Responds to battle, destruction, and effects that send a unit to the graveyard, but not sacrifices or costs. Rescue happens before leaving the battlefield and does not trigger death abilities. Equipment goes to the graveyard normally. Rescue does not cancel battle damage.",
+      "flavor": "The ebb carries a lost life safely back to shore."
+    },
+    "216": {
+      "name": "King of the Sepulchral Throne",
+      "effect": "Once per turn, when another allied non-token unit is sent from the battlefield to the graveyard by battle or a card effect, summon a 1 ATK / 2 DEF Ancient King’s Bone Soldier in its place in Defense Position.",
+      "flavor": "The decree endures. The dead march on."
+    },
+    "217": {
+      "name": "Ancient King’s Bone Soldier",
+      "effect": "Token unit. Disappears when it leaves the battlefield.",
+      "flavor": "Beyond the broken shield lies the King’s realm."
+    },
+    "218": {
+      "name": "Endless Nightmare",
+      "effect": "While this unit is face up, the enemy unit directly opposite cannot attack, assist attacks, change its battle position, or use activated abilities.",
+      "flavor": "Before the world awoke, the dream already endured."
+    },
+    "219": {
+      "name": "Candle of Hope",
+      "effect": "Choose an allied unit. This turn, it ignores card effects that prevent it from attacking, changing battle position, or using activated abilities.",
+      "flavor": "While one light remains, courage can find its way home."
+    },
+    "220": {
+      "name": "Visitor from Afar",
+      "effect": "When this unit is destroyed in battle by an enemy unit, your first summon of a unit with a printed cost of 6 or more on your next turn costs 3 less, to a minimum of 1. This discount does not stack.",
+      "flavor": "He stayed in the village for only a few days. Nobody asked where he came from."
+    },
+    "221": {
+      "name": "Lost Lion Cub",
+      "effect": "When this unit is destroyed in battle by an enemy unit, the first unit you summon on your next turn gains +1 ATK until it leaves the battlefield. This effect does not stack.",
+      "flavor": "Its cries fell silent. From afar, a low answer came."
+    },
+    "222": {
+      "name": "Hauling Cart",
+      "effect": "At the start of your turn, if this unit is face up, your next unit summon this turn costs 1 less, to a minimum of 1. This unit must remain face up on the battlefield with its ability active when the discount is used.",
+      "flavor": "Every tool has a way to defend the realm."
+    },
+    "223": {
+      "name": "Inspection Automaton",
+      "effect": "During your opponent’s turn, when an enemy unit is summoned directly opposite this face-up unit, that unit gets -1 ATK this turn.",
+      "flavor": "Every tool has a way to defend the realm."
+    },
+    "224": {
+      "name": "Crane Hauler",
+      "effect": "On entry, you may move another allied unit to an empty slot on your battlefield. At the start of your turn, if this unit is face up, your next unit summon this turn costs 1 less, to a minimum of 1. This unit must remain face up with its ability active when the discount is used.",
+      "flavor": "Every tool has a way to defend the realm."
+    },
+    "225": {
+      "name": "Field Assembler",
+      "effect": "Once during each of your turns: choose another face-up allied unit. Give it Pierce, Guard, Ranged, or Intercept Flying until the end of your opponent’s next turn.",
+      "flavor": "Every tool has a way to defend the realm."
+    },
+    "226": {
+      "name": "Steam Ram",
+      "effect": "On entry, choose a face-up enemy unit. It gets -1 ATK and -1 DEF until the end of your opponent’s next turn.",
+      "flavor": "Every tool has a way to defend the realm."
+    },
+    "227": {
+      "name": "Emergency Armor",
+      "effect": "When an allied unit is attacked, give it +3 DEF for that battle.",
+      "flavor": "Every tool has a way to defend the realm."
+    },
+    "228": {
+      "name": "Dew Collector",
+      "effect": "At the start of your turn, if this unit is face up, restore 1 life to you.",
+      "flavor": "Life in the forest always leaves a path for another."
+    },
+    "229": {
+      "name": "Symbiotic Blossom",
+      "effect": "The first time you restore life each turn, you may give a face-up allied unit +1 ATK this turn.",
+      "flavor": "Life in the forest always leaves a path for another."
+    },
+    "230": {
+      "name": "Fallen-Leaf Seedling",
+      "effect": "When this unit is destroyed in battle by an enemy unit, restore 2 life to you.",
+      "flavor": "Life in the forest always leaves a path for another."
+    },
+    "231": {
+      "name": "Rootbound Warden",
+      "effect": "While this unit is face up in Defense Position, allied units in the immediately adjacent slots have +1 DEF.",
+      "flavor": "Life in the forest always leaves a path for another."
+    },
+    "232": {
+      "name": "Rootwalking Treant",
+      "effect": "On entry, you may swap positions with another allied unit.",
+      "flavor": "Life in the forest always leaves a path for another."
+    },
+    "233": {
+      "name": "Living Vine Rescue",
+      "effect": "When an allied unit would be sent from the battlefield to the graveyard, return it to your hand instead. If rescued successfully, restore 1 life to you.",
+      "flavor": "Life in the forest always leaves a path for another."
+    },
+    "234": {
+      "name": "Spring Returns",
+      "effect": "Restore 2 life to you and return a unit with a cost of 2 or less from your graveyard to your hand.",
+      "flavor": "Life in the forest always leaves a path for another."
+    },
+    "235": {
+      "name": "Parasitic Seed",
+      "effect": "Choose a face-up enemy unit. Until the end of your opponent’s next turn, whenever it declares an attack, restore 2 life to you.",
+      "flavor": "Life in the forest always leaves a path for another."
+    },
+    "236": {
+      "name": "Cliffside Nestling",
+      "effect": "Flying.",
+      "flavor": "Through the mountain pass, the wind carries word of distant companions."
+    },
+    "237": {
+      "name": "Nestguard Eagle",
+      "effect": "Flying. While face up in Defense Position, allied units in the immediately adjacent slots have +1 DEF.",
+      "flavor": "Through the mountain pass, the wind carries word of distant companions."
+    },
+    "238": {
+      "name": "Windpatrol Falcon",
+      "effect": "Flying. On entry, you may look at the face-down enemy unit directly opposite.",
+      "flavor": "Through the mountain pass, the wind carries word of distant companions."
+    },
+    "239": {
+      "name": "Twigbearing Messenger",
+      "effect": "Flying. On entry, you may give another face-up allied unit Agile until the end of your opponent’s next turn.",
+      "flavor": "Through the mountain pass, the wind carries word of distant companions."
+    },
+    "240": {
+      "name": "Diving Falcon",
+      "effect": "Flying. When attacking the enemy unit directly opposite, gain +2 ATK for that battle.",
+      "flavor": "Through the mountain pass, the wind carries word of distant companions."
+    },
+    "241": {
+      "name": "Windgap Watcher",
+      "effect": "Flying. At the start of your turn, you may move this unit to an empty slot on your battlefield.",
+      "flavor": "Through the mountain pass, the wind carries word of distant companions."
+    },
+    "242": {
+      "name": "Ride the Wind",
+      "effect": "Choose a face-up allied unit. It gains Flying until the end of your opponent’s next turn.",
+      "flavor": "Through the mountain pass, the wind carries word of distant companions."
+    },
+    "243": {
+      "name": "Crosswind Rescue",
+      "effect": "When an allied unit is attacked, move it to an empty slot on your battlefield and cancel the attack.",
+      "flavor": "Through the mountain pass, the wind carries word of distant companions."
+    },
+    "244": {
+      "name": "Shell-Gathering Crab",
+      "effect": "No special abilities.",
+      "flavor": "The tide recedes, but the sea remembers every returning life."
+    },
+    "245": {
+      "name": "Wavechaser Fish",
+      "effect": "Agile. When this unit turns face up from face down, you may move it to another empty slot on your battlefield.",
+      "flavor": "The tide recedes, but the sea remembers every returning life."
+    },
+    "246": {
+      "name": "Tidecalling Dolphin",
+      "effect": "On entry, you may give another face-up allied unit Agile until the end of your opponent’s next turn.",
+      "flavor": "The tide recedes, but the sea remembers every returning life."
+    },
+    "247": {
+      "name": "Tidesong Singer",
+      "effect": "The first time another allied unit returns from the battlefield to your hand each turn, restore 2 life to you.",
+      "flavor": "The tide recedes, but the sea remembers every returning life."
+    },
+    "248": {
+      "name": "Trench Ambusher",
+      "effect": "When this unit is turned face up by an attack, the attacker gets -2 ATK for that battle.",
+      "flavor": "The tide recedes, but the sea remembers every returning life."
+    },
+    "249": {
+      "name": "Tidal Whale",
+      "effect": "On entry, you may return another allied unit to your hand. If returned successfully, restore 3 life to you.",
+      "flavor": "The tide recedes, but the sea remembers every returning life."
+    },
+    "250": {
+      "name": "Undertow Pull",
+      "effect": "Choose a face-up enemy unit and move it to an empty slot on your opponent’s battlefield.",
+      "flavor": "The tide recedes, but the sea remembers every returning life."
+    },
+    "251": {
+      "name": "Ebb and Return",
+      "effect": "When an allied unit is attacked, return it to your hand and cancel the attack. You may summon a different unit with a printed cost of 2 or less from your hand in Defense Position.",
+      "flavor": "The tide recedes, but the sea remembers every returning life."
+    },
+    "252": {
+      "name": "Bonecalling Apprentice",
+      "effect": "On entry, you may summon a cost-1 unit from your graveyard in Defense Position. Triggers entry effects. Once per turn across copies of this card.",
+      "flavor": "While the decree endures, no tomb stays shut."
+    },
+    "253": {
+      "name": "Relief Tombguard",
+      "effect": "When destroyed in battle, you may summon a different unit costing 2 or less from your graveyard in Defense Position in this unit’s former slot. Triggers entry effects. Once per turn across copies of this card.",
+      "flavor": "While the decree endures, no tomb stays shut."
+    },
+    "254": {
+      "name": "Borrowed Life",
+      "effect": "Summon a unit costing 3 or less from your graveyard in Attack Position. Exile it at the end of the turn. Triggers entry effects. Once per turn across copies of this card.",
+      "flavor": "While the decree endures, no tomb stays shut."
+    },
+    "255": {
+      "name": "Equivalent Rebirth",
+      "effect": "Send an allied unit to the graveyard to summon a different unit from your graveyard with an equal or lower cost in Defense Position. Triggers entry effects. Once per turn across copies of this card.",
+      "flavor": "While the decree endures, no tomb stays shut."
+    },
+    "256": {
+      "name": "The King’s Command Endures",
+      "effect": "After an allied non-token unit is destroyed in battle, revive it in Defense Position in its former slot. Triggers entry effects. Once per turn across copies of this card.",
+      "flavor": "While the decree endures, no tomb stays shut."
+    },
+    "257": {
+      "name": "Rite of Awakening",
+      "effect": "Summon a unit costing 4 or less from your graveyard in Defense Position. Triggers entry effects. Once per turn across copies of this card.",
+      "flavor": "While the decree endures, no tomb stays shut."
+    },
+    "258": {
+      "name": "Nameless Stone",
+      "effect": "No special abilities. No abilities.",
+      "flavor": ""
+    },
+    "259": {
+      "name": "Wasteland Stonebeast",
+      "effect": "No special abilities. No abilities.",
+      "flavor": ""
+    },
+    "260": {
+      "name": "Light Gatherer",
+      "effect": "At the start of your turn, if this unit is face up, gain 1 command. Must be face up and unsilenced.",
+      "flavor": ""
+    },
+    "261": {
+      "name": "Weightless Colossus",
+      "effect": "While this unit is face up, adjacent allies have Flying. Only immediately adjacent slots, excluding self. Ends when hidden, silenced, or removed.",
+      "flavor": ""
+    },
+    "262": {
+      "name": "Eye of Silence",
+      "effect": "While this unit is face up, the enemy directly opposite loses its own special abilities. Suppresses native abilities only; equipment, granted abilities and already declared effects remain. Opposing Eyes give priority to the one that became face up first.",
+      "flavor": ""
+    },
+    "263": {
+      "name": "The Unawakened",
+      "effect": "When revealed by an attack, gain +2 attack and +2 defense for that battle. Only attack-triggered reveals, for that battle alone.",
+      "flavor": ""
+    },
+    "264": {
+      "name": "Return to Zero",
+      "effect": "Choose a face-up unit. Remove its buffs and debuffs. Equipment and ongoing auras are unaffected. Clears attached modifiers, not action history, equipment or native abilities. Auras reapply; deferred fate remains due.",
+      "flavor": ""
+    },
+    "265": {
+      "name": "Fate Deferred",
+      "effect": "When an ally would be sent to the graveyard, keep it on the field. At the end of the turn, send it to the graveyard; it cannot be rescued then. Excludes sacrifice and costs. Preserves posture, equipment and action history, without entry/death triggers. Battle damage still applies. Leaving ends the obligation; the final graveyard move cannot be rescued.",
+      "flavor": ""
+    },
+    "266": {
+      "name": "Hauling Automaton",
+      "effect": "No special abilities. A basic low-cost unit that yields 2 command when sacrificed.",
+      "flavor": ""
+    },
+    "267": {
+      "name": "Riveted Heavyworker",
+      "effect": "No special abilities. Does not have Guard.",
+      "flavor": ""
+    },
+    "268": {
+      "name": "Overpressure Drive",
+      "effect": "Choose a face-up ally. It gets +3 attack and -2 defense this turn. Does not reset attacks.",
+      "flavor": ""
+    },
+    "269": {
+      "name": "Module Transfer",
+      "effect": "Move an ally’s equipment to another face-up ally without equipment. The recipient must be able to equip it. Does not trigger equip effects or reset actions. Fails if the chosen equipment leaves or changes hosts before resolution.",
+      "flavor": ""
+    },
+    "270": {
+      "name": "Tripwire Launcher",
+      "effect": "When an enemy attacks, it gets -3 attack for that battle. Works against Flying and direct attacks; respects trap immunity.",
+      "flavor": ""
+    },
+    "271": {
+      "name": "Ejection Platform",
+      "effect": "When an enemy with cost 3 or less attacks, return it to its owner’s hand and cancel the attack. Uses printed cost. Cancels only after a successful return; respects trap immunity.",
+      "flavor": ""
+    },
+    "272": {
+      "name": "Magnetic Dragnet",
+      "effect": "When an enemy is summoned, you may move it to another empty slot on its side. You choose the empty slot. Can move concealed units without revealing them. Does not cancel or retrigger entry effects; respects trap immunity.",
+      "flavor": ""
+    },
+    "273": {
+      "name": "Emergency Evacuation",
+      "effect": "When a face-up ally is attacked, move it to another empty slot on your side and cancel the attack. Requires a successful move. Preserves posture, equipment and action history. Uses the existing cancellation rule, including unresolved Sweep attacks.",
+      "flavor": ""
+    },
+    "274": {
+      "name": "Spare Parts",
+      "effect": "When an ally would be sent to the graveyard by battle or an enemy effect, send its equipment instead and keep the ally on the field. Requires equipment as payment. Cannot replace sacrifice, costs, or Fate Deferred’s final graveyard move. Preserves posture and actions, without entry or death triggers. Battle damage to players still applies.",
+      "flavor": ""
+    },
+    "275": {
+      "name": "Gate Infantry",
+      "effect": "No special abilities. Does not have Guard.",
+      "flavor": ""
+    },
+    "276": {
+      "name": "Royal Greatswordsman",
+      "effect": "No special abilities.",
+      "flavor": ""
+    },
+    "277": {
+      "name": "Advance Order",
+      "effect": "Choose up to 2 face-up allies. Each gets +1 attack this turn, and you may change them to attack position. Choose at least 1. Choose separately which to change. Does not reset attacks or bypass stance restrictions; concealed units cannot be chosen.",
+      "flavor": ""
+    },
+    "278": {
+      "name": "Return to Duty",
+      "effect": "Return a unit with cost 3 or less from your graveyard to your hand. Uses printed cost; does not summon the unit.",
+      "flavor": ""
+    },
+    "279": {
+      "name": "Gate Ambush",
+      "effect": "When an enemy attacks you directly, you may summon a unit with cost 3 or less from your hand in defense position to take the attack. Requires an empty slot and a unit allowed in defense position. You choose the slot and pay no summon cost. Entry effects trigger; the attack targets the summoned unit instead of being canceled. Respects the attacker’s trap immunity.",
+      "flavor": ""
+    },
+    "280": {
+      "name": "Stand in Defense",
+      "effect": "When an ally is attacked, another face-up ally may take the attack instead. It gets +1 attack and +1 defense for that battle. The covering ally must be a legal attack target. Keeps its slot and position; cannot choose another target of the same Sweep.",
+      "flavor": ""
+    },
+    "281": {
+      "name": "Honor Undying",
+      "effect": "When an ally would be sent to the graveyard by battle or an enemy effect, keep it on the field and gain 1 command. You can use only 1 Honor Undying per turn. Cannot replace sacrifices, costs, or Fate Deferred’s final graveyard move. Preserves posture, equipment and actions without entry or death triggers. Player battle damage still applies; gain command only on successful rescue.",
+      "flavor": ""
+    },
+    "282": {
+      "name": "Thickleaf Sprout",
+      "effect": "No special abilities. Does not have Guard.",
+      "flavor": ""
+    },
+    "283": {
+      "name": "Woodland Hornbeast",
+      "effect": "No special abilities.",
+      "flavor": ""
+    },
+    "284": {
+      "name": "Sunward Growth",
+      "effect": "Choose a face-up ally. It gets +1 attack and +1 defense until it leaves the field. Restore 1 life to yourself. Buffs stack and clear on leaving the field; healing respects the life cap.",
+      "flavor": ""
+    },
+    "285": {
+      "name": "Rootbound Road",
+      "effect": "When an enemy without Flying attacks, cancel the attack and change it to defense position. Still cancels if defense position is forbidden. Does not reset attacks; respects trap and trap-position immunity.",
+      "flavor": ""
+    },
+    "286": {
+      "name": "Healing Spore Mist",
+      "effect": "When an ally is attacked, it gets +1 attack and +1 defense for that battle. Restore 2 life to yourself. The battle bonus is bound to the original target. Actual healing can trigger healing abilities.",
+      "flavor": ""
+    },
+    "287": {
+      "name": "Purifying Dew",
+      "effect": "When an enemy spell or trap targets an ally, protect that ally from that card’s effects. Protects only one chosen unit from that instance of the effect; other targets and player effects resolve normally. Does not undo resolved effects or stop untargeted board-wide effects or unit abilities. Leaving and returning ends protection.",
+      "flavor": ""
+    },
+    "288": {
+      "name": "Lifebound Roots",
+      "effect": "When an ally would be sent to the graveyard by battle or an enemy effect, keep it on the field and restore 1 life to yourself. You can use only 1 Lifebound Roots per turn. Heals only on successful rescue. Preserves position, equipment and action history without entry or death triggers. Battle damage still applies; cannot replace sacrifice, costs or Fate Deferred’s final graveyard move.",
+      "flavor": ""
+    },
+    "289": {
+      "name": "Cragside Ram",
+      "effect": "No special abilities.",
+      "flavor": ""
+    },
+    "290": {
+      "name": "Tailwind Advance",
+      "effect": "Choose a face-up ally. You may move it to another empty slot on your side. It gains Pierce this turn. Gains Pierce even if you decline to move or have no empty slots. Does not reset attacks.",
+      "flavor": ""
+    },
+    "291": {
+      "name": "Turbulent Windwall",
+      "effect": "When an enemy attacks, it loses Flying this turn and gets -2 attack for that battle. Also works on ground units. Suppresses Flying from ongoing auras; does not cancel the declared attack or reselect its target. Respects trap immunity.",
+      "flavor": ""
+    },
+    "292": {
+      "name": "Gorge Rockfall",
+      "effect": "When an enemy with 3 or less attack attacks, send it to the graveyard and cancel the attack. Checks current attack at declaration and resolution; may affect Flying units. Cancels only if sent to the graveyard. A successful rescue allows the attack to continue.",
+      "flavor": ""
+    },
+    "293": {
+      "name": "Reversing Gust",
+      "effect": "When an enemy attacks, you may move it to another empty slot on its side. If moved, cancel the attack. You choose the opponent’s empty slot; requires one to be available. Preserves posture, equipment and action history; respects trap immunity.",
+      "flavor": ""
+    },
+    "294": {
+      "name": "Winds Reversed",
+      "effect": "When an enemy spell targets only one unit and that unit is yours, you may change its target to another legal unit. The new target must meet the original caster’s targeting restrictions. Requires another legal target. Does not affect untargeted board-wide effects, multi-target spells or unit abilities. Rechecks legality on resolution.",
+      "flavor": ""
+    },
+    "295": {
+      "name": "Thickshell Hermit Crab",
+      "effect": "No special abilities. Does not have Guard.",
+      "flavor": ""
+    },
+    "296": {
+      "name": "Dive into the Deep",
+      "effect": "Choose a face-up ally and turn it face down in defense position. Must allow concealed defense. Preserves equipment, buffs and action history. Does not leave or enter the field or reset attacks. Later reveals trigger reveal abilities normally.",
+      "flavor": ""
+    },
+    "297": {
+      "name": "Returning Surge",
+      "effect": "When an enemy attacks, you may return an ally and the attacker to their owners’ hands and cancel the attack. The ally must be unacted or Agile and able to return to hand; tokens cannot be chosen. Return the ally first, then the attacker. Cancel only if the attacker reaches hand. Respects trap immunity.",
+      "flavor": ""
+    },
+    "298": {
+      "name": "Reef Stranding",
+      "effect": "When an enemy is summoned, it gets -2 attack and cannot voluntarily change position until the end of that turn. Does not cancel entry effects or prohibit attacks. Affects concealed units without revealing them. Other effects can still change position; respects trap immunity.",
+      "flavor": ""
+    },
+    "299": {
+      "name": "Tidal Exchange",
+      "effect": "When a face-up ally is attacked, swap it with another face-up ally, which takes the attack instead. Requires no empty slot. The replacement must be a legal attack target before and after the swap and cannot be another target of the same Sweep. Preserves posture, equipment and actions. No entry trigger, attack cancellation or stat bonus.",
+      "flavor": ""
+    },
+    "300": {
+      "name": "Nameless Bone Soldier",
+      "effect": "No special abilities. A deck card, not a token.",
+      "flavor": ""
+    },
+    "301": {
+      "name": "Burial in the Royal Tomb",
+      "effect": "Send a unit with cost 4 or less from your deck to the graveyard, then shuffle your deck. Reveal the chosen card. Does not count as leaving the field or battle destruction; does not draw or revive.",
+      "flavor": ""
+    },
+    "302": {
+      "name": "Reinforcements from Below",
+      "effect": "After an ally is destroyed in battle, you may summon another unit with cost 3 or less from your graveyard in defense position in its slot. You can use only 1 Reinforcements from Below per turn. Pays no summon cost and triggers entry abilities. Cannot revive the just-destroyed card. Requires its original slot to remain empty and a unit allowed in defense position.",
+      "flavor": ""
+    },
+    "303": {
+      "name": "The Dead Pay the Price",
+      "effect": "When your opponent casts a spell, you may exile a unit from your graveyard with cost at least equal to that spell to negate it. You can use only 1 The Dead Pay the Price per turn. Compares printed costs. Negates only after successful exile payment. Cannot negate traps, counters or unit abilities.",
+      "flavor": ""
+    }
+  }
+}
